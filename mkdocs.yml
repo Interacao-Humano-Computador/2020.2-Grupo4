@@ -1,45 +1,46 @@
 site_name: Cil2bsb
 
 theme:
-    name: material
-    favicon: images/logo-cil-2.png
-    logo: images/logo-cil-2.png
+      name: material
+      favicon: images/logo-cil-2.png
+      logo: images/logo-cil-2.png
 
-    language: pt
-    features:
-        - header.autohide
-        - navigation.tabs
+      language: pt
+      features:
+            - header.autohide
+            - navigation.tabs
 nav:
-    - Home: index.md
-    - Apresentações:
-          - Apresentação 01: 'Apresentacao/Apresentacao_1/apresentacao1.md'
-          - Apresentação 02: 'Apresentacao/apresentacao2.md'
-          - Apresentação 03: 'Apresentacao/apresentacao3.md'
-          - Apresentação 04: 'Apresentacao/apresentacao4.md'
-          #- Apresentação 05: ''
-          #- Apresentação 06: ''
-    - Planejamento:
-          - Planejamento: 'Planejamento/Planejamento.md'
-          - Processo de Design: 'Planejamento/processo-de-design.md'
-    - Análise de requisitos:
-          - Análise do Perfil de Usuário:
-                - Análise de tarefas: 'Analise_Requisitos/tarefas.md'
-                - Perfil do usuário: 'Analise_Requisitos/perfil_usuario.md'
-                - Personas: 'Analise_Requisitos/personas.md'
-          - Princípios Gerais de Projeto: 'Analise_Requisitos/principios_gerais.md'
-          - Características da Plataforma: 'Analise_Requisitos/carac_plataforma.md'
-          - Metas de Usabilidade: 'Analise_Requisitos/metas_usabilidade.md'
-          - Guia de Estilo: 'Analise_Requisitos/guia_estilo.md'
-    - Design, Avaliação e Desenvolvimento:
-          - Nível 1:
-                - Análise de tarefas:
-                      - Planejamento da Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/planejamento_analise_tarefas.md'
-                      - Teste Piloto: 'Design_avaliacao_desenvolvimento/teste_piloto_tarefa.md'
-                      - Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/avaliacao_analise_tarefas.md'
-                - Storyboard:
-                      - Storyboard: 'Design_avaliacao_desenvolvimento/storyboard.md'
-                      - Planejamento da Avaliação do Storyboard: 'Design_avaliacao_desenvolvimento/planejamento_storyboard.md'
-                      - Teste Piloto: 'Design_avaliacao_desenvolvimento/teste_piloto_storyboard.md'
-                      - Avaliação do Storyboard: 'Design_avaliacao_desenvolvimento/avaliacao_storyboard.md'
-
+      - Home: index.md
+      - Apresentações:
+            - Apresentação 01: 'Apresentacao/Apresentacao_1/apresentacao1.md'
+            - Apresentação 02: 'Apresentacao/apresentacao2.md'
+            - Apresentação 03: 'Apresentacao/apresentacao3.md'
+            - Apresentação 04: 'Apresentacao/apresentacao4.md'
+            #- Apresentação 05: ''
+            #- Apresentação 06: ''
+      - Planejamento:
+            - Planejamento: 'Planejamento/Planejamento.md'
+            - Processo de Design: 'Planejamento/processo-de-design.md'
+      - Análise de requisitos:
+            - Análise do Perfil de Usuário:
+                  - Análise de tarefas: 'Analise_Requisitos/tarefas.md'
+                  - Perfil do usuário: 'Analise_Requisitos/perfil_usuario.md'
+                  - Personas: 'Analise_Requisitos/personas.md'
+            - Princípios Gerais de Projeto: 'Analise_Requisitos/principios_gerais.md'
+            - Características da Plataforma: 'Analise_Requisitos/carac_plataforma.md'
+            - Metas de Usabilidade: 'Analise_Requisitos/metas_usabilidade.md'
+            - Guia de Estilo: 'Analise_Requisitos/guia_estilo.md'
+      - Design, Avaliação e Desenvolvimento:
+            - Nível 1:
+                  - Análise de tarefas:
+                        - Planejamento da Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/planejamento_analise_tarefas.md'
+                        - Teste Piloto: 'Design_avaliacao_desenvolvimento/teste_piloto_tarefa.md'
+                        - Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/avaliacao_analise_tarefas.md'
+                  - Storyboard:
+                        - Storyboard: 'Design_avaliacao_desenvolvimento/storyboard.md'
+                        - Planejamento da Avaliação do Storyboard: 'Design_avaliacao_desenvolvimento/planejamento_storyboard.md'
+                        - Teste Piloto: 'Design_avaliacao_desenvolvimento/teste_piloto_storyboard.md'
+                        - Avaliação do Storyboard: 'Design_avaliacao_desenvolvimento/avaliacao_storyboard.md'
+            - Nível 2:
+                  - Protótipo de Baixa-fidelidade: 'Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade.md'
 docs_dir: docs/
