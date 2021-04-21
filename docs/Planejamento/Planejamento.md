@@ -9,6 +9,7 @@
 | 02/03/2021 | 0.3    | Correção de Erros de Digitação              | Eduarda Servidio               | Gabriela Pivetta |
 | 02/03/2021 | 0.4    | Melhora do visual (justificação dos textos) | Eduarda Servidio               | Gabriela Pivetta |
 | 02/03/2021 | 0.5    | Adição de descrição de sites analisados     | Eduarda, Hérya, Luis           | Eduarda Servidio |
+| 21/04/2021 | 0.6    | Adição de novas ferramentas                 | Gabriela Pivetta               | ---------- |
 
 ## Justificativa de escolha do site
 
@@ -51,14 +52,15 @@ Estipulamos uma dedicação semanal de 8 horas por membro da equipe.
 
 | Ferramenta                                                                                                                                                                                                                    | Nome               | Descrição                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------- |
-| <img alt = "Logo Google" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Gsuite-logo.png" width = "200">                                                                                                             | Google Suite       | Ferramenta usada para auxílio na criação dos slides      |
-| <img alt = "Logo Office" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width = "100"/> | Microsoft Office   | Ferramenta para criação de planilhas                     |
+| <img alt = "Logo Google" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Gsuite-logo.png" width = "100">                                                                                                             | Google Suite       | Ferramenta usada para auxílio na criação dos slides      |
+| <img alt = "Logo Google Sheets" src="https://seeklogo.com/images/G/google-sheets-logo-70C2B2CA6A-seeklogo.com.png" width = "80"/> | Google Sheets   | Ferramenta usada para a criação de planilhas                     |
 | <img alt = "Logo Teams" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width = "100"> | Microsoft Teams    | Ferramenta usada para reuniões em equipe                 |
 | <img alt = "Logo Telegram" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-3.png" width = "100">                                                                                                       | Telegram           | Ferramenta usada para comunicação entre os membros       |
 | <img alt = "Logo VSC" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width = "100">                                                                                 | Visual Studio Code | Ferramenta de edição de códigos utilizada pela equipe    |
 | <img alt = "Logo Github" src="https://image.flaticon.com/icons/png/512/25/25231.png" width = "100">                                                                                                                           | GitHub             | Ferramenta usada para armazenar os documentos do projeto |
-| <img alt = "Logo Photohop" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width = "100">                                                                                                                      | Photoshop          | Ferramenta usada para criação dos slides finais          |
-| <img alt = "Logo MKdocs" src="https://www.fullstackpython.com/img/logos/mkdocs.jpg" width = "200">                                                                                                                            | MKdocs             | Ferramenta usada para criação do Site wiki do projeto.   |
+| <img alt = "Logo Photshop" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width = "100">                                                                                                                      | Photoshop          | Ferramenta usada para criação dos slides finais          |
+| <img alt = "Logo MKdocs" src="https://d33wubrfki0l68.cloudfront.net/e43d6fce615884aa5a3427f0ee46d1a3b8a0c7d2/6c3a5/assets/images/tool-icons/mkdocs.png" width = "100">                                                                                                                            | MKdocs             | Ferramenta usada para criação do Site wiki do projeto.   |
+| <img alt = "Logo Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png" width = "80">                                                                                                                            | Figma             | Ferramenta usada para a elaboração de protótipos.   |
 
 ## Contribuições para a Primeira Apresentação
 
