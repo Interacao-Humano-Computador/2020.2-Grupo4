@@ -20,7 +20,7 @@ O teste piloto permitirá a exposição de possíveis problemas existentes no pr
 
 ## Teste Piloto
 
-<video style="width:100%" controls src="" type="video/mp4">
+<video style="width:100%" controls src="../images/teste_piloto_prot.mp4" type="video/mp4">
 </video>
 
 ### Bibliografia
