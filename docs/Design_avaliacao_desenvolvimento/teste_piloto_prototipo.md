@@ -2,10 +2,10 @@
 
 | Data       | Versão | Descrição                         | Autores         | Revisor      |
 | ---------- | ------ | --------------------------------- | --------------- | ------------ |
-| 20/04/2021 | 0.1    | Criação e elaboração do documento | Gabriela Pivetta | ---------  |
+| 20/04/2021 | 0.1    | Criação e elaboração do documento | Gabriela Pivetta | Eduarda Servidio  |
 
 ## Introdução
-<p align="justify">O teste piloto ocorrerá na forma de vídeo, onde os componentes do protótipo de baixa-fidelidade serão analizados.</p>
+<p align="justify">O teste piloto ocorrerá na forma de vídeo, onde os componentes do protótipo de baixa-fidelidade serão analisados.</p>
 
 ## Objetivo
 
@@ -16,7 +16,7 @@ O teste piloto permitirá a exposição de possíveis problemas existentes no pr
 <p align="justify">O teste será conduzido por um avaliador, que verificará se as funcionalidades estão funcionando corretamente.</p>
 
 ## Termo de consentimento
-<p align="justify">Um termo de consentimento não foi elaborado pois apenas um membro da equipe, o avaliador, foi envolvido no teste.</p>
+<p align="justify">Um termo de consentimento não foi elaborado pois apenas um membro da equipe, o avaliador, estava envolvido no teste.</p>
 
 ## Teste Piloto
 
