@@ -3,7 +3,7 @@
 ## Histórico de Versões
 | Data       | Versão | Descrição                                     | Autores          | Revisor          |
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
-| 20/04/2021 | 0.1    | Criação e elaboração do documento             | Giovana Dionisio |                  |
+| 20/04/2021 | 0.1    | Criação e elaboração do documento             | Giovana Dionisio | Eduarda Servidio |
 
 ## Introdução 
 <p align="justify"> Protótipos de baixa-fidelidade são artefatos simples e flexíveis muito utilizados para que se possa encorajar a exploração e modificação de desing de um software. Eles não se assemelham ao produto final, enfatizando as suas funcionalidades em vez da sua estética. </p>

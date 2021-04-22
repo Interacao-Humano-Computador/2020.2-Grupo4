@@ -75,7 +75,7 @@ de soluções. O Guia deve auxiliar nas correções e melhorias do design do sit
 ###1.5 Como manter o Guia
 
 <p align="justify">O Guia de Estilo deve ser feito na fase de "Análise de Requisitos" e
-atualizado a cada nível na fase de "Design, Avaliação, Desenvolvimento" como
+verificado a cada nível na fase de "Design, Avaliação, Desenvolvimento" como
 indicado na imagem abaixo do Ciclo de Mayhew. O Guia deve ser mantido sempre atualizado
 após cada alteração no desenvolvimento do projeto.</p>
 
