@@ -1,4 +1,4 @@
-#Planejamento da Avalição do Protótipo de Papel
+#Planejamento da Avaliação do Protótipo de Papel
 
 ## Histórico de Versões
 
