@@ -4,14 +4,14 @@
 
 | Data       | Versão | Descrição                                     | Autores          | Revisor     |
 | ---------- | ------ | --------------------------------------------- | ---------------- | ----------- |
-| 22/04/2021 | 0.1    | Criação do documento e adição dos tópicos     | Eduarda Servidio | ----------- |
+| 22/04/2021 | 0.1    | Criação do documento e adição dos tópicos     | Eduarda Servidio | Hérya Rodrigues |
 
 ## Objetivo
 <p align="justify">O objetivo da Avaliação do 
 <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/">
 Protótipo de papel</a> é validar a qualidade do protótipo de baixa fidelidade para passarmos para o 
 de alta fidelidade. Essa validação é para identificar como o usuário irá utilizar o site do CIL2-BSB,
-mostrando o passo a passo que seguirá para determinada tarefa, bem como identificar se houve 
+mostrando o passo a passo que seguirá para realizar determinada tarefa, bem como identificar se houve 
 dificuldade, facilidade ou alguma falha ao simular a utilização. </p>
 
 ## Metodologia
