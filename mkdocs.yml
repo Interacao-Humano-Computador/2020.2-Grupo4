@@ -43,5 +43,6 @@ nav:
                         - Avaliação do Storyboard: 'Design_avaliacao_desenvolvimento/avaliacao_storyboard.md'
             - Nível 2:
                   - Protótipo de Baixa-fidelidade: 'Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade.md'
+                  - Planejamento da Avaliação do Protótipo de Baixa-fidelidade: 'Design_avaliacao_desenvolvimento/planejamento_prototipo.md'
                   - Teste Piloto do Protótipo de Baixa-fidelidade: 'Design_avaliacao_desenvolvimento/teste_piloto_prototipo.md'
 docs_dir: docs/
