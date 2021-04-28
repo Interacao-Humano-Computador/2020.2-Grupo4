@@ -45,4 +45,8 @@ nav:
                   - Protótipo de Baixa-fidelidade: 'Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade.md'
                   - Planejamento da Avaliação do Protótipo de Baixa-fidelidade: 'Design_avaliacao_desenvolvimento/planejamento_prototipo.md'
                   - Teste Piloto do Protótipo de Baixa-fidelidade: 'Design_avaliacao_desenvolvimento/teste_piloto_prototipo.md'
+                  - Avaliação do Protótipo de Baixa-Fidelidade: 'Design_avaliacao_desenvolvimento/avaliacao_baixa_fidelidade.md'
+            - Nível 3:
+                  - Protótipo de Alta-Fidelidade: ''
+                  - Planejamento da Avaliação do Protótipo de Alta-fidelidade: ''
 docs_dir: docs/
