@@ -5,7 +5,7 @@
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 28/04/2021 | 0.1    | Criação  do documento             | Hérya Rodrigues | ----- |
 | 28/04/2021 | 0.2    | Adição da avaliação da tarefa 3             | Hérya Rodrigues | ----- |
-| 28/04/2021 | 0.3    | Inicialização da avaliação da tarefa 1             | Hérya Rodrigues | ----- |
+| 28/04/2021 | 0.3    | Inicialização da avaliação da tarefa 1         | Hérya Rodrigues | ----- |
 
 ## Tarefa 1: Descobrir mais informações sobre o CIL2BSB
 ### Preparação
@@ -18,6 +18,11 @@
 
 ### Coleta de Dados
 <p align="justify">A participante foi informada sobre como o teste ocorreria e que tarefa deveria realizar. </p>
+
+<p align="justify">O vídeo a seguir registra a interação da usuária com o protótipo de baixa-fidelidade.</p>
+
+<video style="width:100%" controls src="../images/tarefa1.mp4" type="video/mp4">
+</video>
 
 #### Entrevista
 Ao final do teste, a usuária respondeu  a uma pequena entrevista:
