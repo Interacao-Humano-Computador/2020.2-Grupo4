@@ -5,10 +5,43 @@
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 28/04/2021 | 0.1    | Criação  do documento             | Hérya Rodrigues | ----- |
 | 28/04/2021 | 0.2    | Adição da avaliação da tarefa 3             | Hérya Rodrigues | ----- |
+| 28/04/2021 | 0.3    | Inicialização da avaliação da tarefa 1             | Hérya Rodrigues | ----- |
 
-## Tarefa 1
+## Tarefa 1: Descobrir mais informações sobre o CIL2BSB
+### Preparação
+#### Tarefa
+<p align="justify">A tarefa a ser avaliada será a de descobrir mais informações sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/">protótipo de baixa-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo/"> no Planejamento da Avaliação do protótipo de Baixa-Fidelidade</a>.
+</p> 
 
-## Tarefa 2
+#### Participante
+<p align="justify">A <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/personas/">persona</a> Ana Júlia Silva foi escolhida para participar do teste e executar a tarefa. A participante tem 16 anos, é aluna do ensino médio e possui conhecimento básico sobre a utilização de sites.</p>
+
+### Coleta de Dados
+<p align="justify">A participante foi informada sobre como o teste ocorreria e que tarefa deveria realizar. </p>
+
+#### Entrevista
+Ao final do teste, a usuária respondeu  a uma pequena entrevista:
+
+Pergunta   | Resposta
+--------- | ------
+Em algum momento você sentiu dificuldade na execução da tarefa? | 
+O que você achou da apresentação visual no protótipo?   | 
+O que você acha que pode ser feito para melhorar essa funcionalidade?  | 
+
+### Interpretação e consolidação dos resultados
+
+
+### Relato dos resultados
+
+#### Problemas de usabilidade já corrigidos durante os ciclos de avaliação e reprojeto
+
+#### Problemas de usabilidade ainda não corrigidos
+
+
+#### Conclusão
+
+
+## Tarefa 2: Encontrar informações sobre como realizar a matrícula nos cursos do CIL2BSB
 
 ## Tarefa 3: Encontrar notícias sobre o CIL2BSB
 ### Preparação
