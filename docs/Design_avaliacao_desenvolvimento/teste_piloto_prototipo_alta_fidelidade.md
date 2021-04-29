@@ -1,4 +1,4 @@
-# Teste Piloto do Protótipo de Baixa-Fidelidade
+# Teste Piloto do Protótipo de Alta-Fidelidade
 
 | Data       | Versão | Descrição                         | Autores           | Revisor      |
 | ---------- | ------ | --------------------------------- | ----------------- | ------------ |
