@@ -1,7 +1,7 @@
 ## Histórico de Versões
-| Data       | Versão | Descrição                        | Autores          | Revisor          |
-| ---------- | ------ | -------------------------------- | ---------------- | ---------------- |
-| 29/04/2021 | 0.1    | Criação do Documento             | Pedro Haick     | --- |
+| Data       | Versão | Descrição                        | Autores               | Revisor          |
+| ---------- | ------ | -------------------------------- | --------------------- | ---------------- |
+| 29/04/2021 | 0.1    | Criação do Documento             | Pedro Haick e Gabriela Pivetta     | --- |
 
 ## Introdução
 
