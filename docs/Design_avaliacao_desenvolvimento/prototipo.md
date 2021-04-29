@@ -27,7 +27,6 @@
 | Visualizar as notícias | selecionar na aba superior "Notícias" |
 | Entrar em contato | selecionar na aba superior "Fale conosco" |
 | Acessar as opções para alunos | selecionar na aba superior "Alunos" ou rolar a página Home até o final e selecionar "Matrículas Novas" a direita da tela |
-| Acessar as informações sobre novas matrículas | Selecionar "Matrículas novas" |
 | Acessar uma notícia específica | selecionar uma notícia específica do site CIL2BSB |
 
 ## Bibliografia
