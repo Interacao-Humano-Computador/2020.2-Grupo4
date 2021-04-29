@@ -2,7 +2,7 @@
 
 | Data       | Versão | Descrição                         | Autores           | Revisor      |
 | ---------- | ------ | --------------------------------- | ----------------- | ------------ |
-| 29/04/2021 | 0.1    | Criação do documento e adição dos tópicos objetivo, parte metodologia e termo de consentimento             | Eduarda Servidio  | Pedro Haick |
+| 29/04/2021 | 0.1    | Criação do documento e adição dos tópicos objetivo, parte da metodologia e termo de consentimento             | Eduarda Servidio  | Pedro Haick |
 | 29/04/2021 | 0.2    | Complementação da Metodologia e Adição do teste piloto                     | Pedro Haick | Eduarda Servidio |
 
 ## Objetivo
