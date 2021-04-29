@@ -13,6 +13,7 @@ O teste piloto permitirá a exposição de possíveis problemas existentes no pr
 <p align="justify">O teste será conduzido por um avaliador, que verificará se as funcionalidades estão funcionando corretamente.</p>
 
 ## Termo de consentimento
+<p align="justify">Um termo de consentimento não foi elaborado pois apenas um membro da equipe, o avaliador, estava envolvido no teste.</p>
 
 ## Teste Piloto
 
