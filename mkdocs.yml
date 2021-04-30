@@ -17,7 +17,7 @@ nav:
             - Apresentação 03: 'Apresentacao/apresentacao3.md'
             - Apresentação 04: 'Apresentacao/apresentacao4.md'
             - Apresentação 05: 'Apresentacao/apresentacao5.md'
-            #- Apresentação 06: ''
+            - Apresentação 06: 'Apresentacao/apresentacao6.md'
       - Planejamento:
             - Planejamento: 'Planejamento/Planejamento.md'
             - Processo de Design: 'Planejamento/processo-de-design.md'
