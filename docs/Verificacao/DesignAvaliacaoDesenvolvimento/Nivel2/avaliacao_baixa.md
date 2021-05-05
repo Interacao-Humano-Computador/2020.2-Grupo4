@@ -5,7 +5,7 @@
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 04/05/2021 | 0.1    | Criação do documento                          | Giovana Dionisio |                  |
 | 05/05/2021 | 0.2    | Adição do Checklist e das tabelas             | Giovana Dionisio |                  |
-| 06/05/2021 | 0.3    | Adição da verificação e conclusão             | Giovana Dionisio |                  |
+| 05/05/2021 | 0.3    | Adição da verificação e conclusão             | Giovana Dionisio |                  |
 
 ## Contexto 
 <p align="justify"> O documento avaliado foi o de <a href = "https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/avaliacao_baixa_fidelidade/">Avaliação do Protótipo de Baixa-Fidelidade.</a></p>
