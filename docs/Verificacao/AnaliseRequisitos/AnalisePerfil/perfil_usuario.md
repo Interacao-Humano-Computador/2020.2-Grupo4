@@ -58,3 +58,6 @@
 
 ## Conclusão
 <p align="justify"> Através da verificação através do Checklist foi possível identificar que o título do documento foge à ortografia no que diz respeito ao uso de letras maiúsculas e minúsculas. Além disso, o texto não está dentro dos padrões da equipe por possuir parágrafos que não estão justificados. </p>
+
+## Acompanhamento
+<p align="justify"> Os problemas encontrados durante a verificação foram corrigidos. </p>

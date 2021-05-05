@@ -10,7 +10,7 @@
 <p align="justify"> O documento avaliado foi o de <a href = "https://interacao-humano-computador.github.io/2020.2-cil2bsb/">Avaliação do Protótipo de Alta-Fidelidade.</a></p>
 
 ## Metodologia
-<p align="justify"> Técnica utilizada: Leitura Checkist.</a></p>
+<p align="justify"> Técnica utilizada: Leitura Checklist.</a></p>
 <p align="justify"> Autor e Inspetor: Giovana Dionisio.</a></p>
 
 ## Checklist
