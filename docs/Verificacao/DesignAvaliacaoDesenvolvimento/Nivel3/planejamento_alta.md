@@ -5,12 +5,13 @@
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 04/05/2021 | 0.1    | Criação do documento                          | Giovana Dionisio |                  |
 | 05/05/2021 | 0.2    | Adição do Checklist e das tabelas             | Giovana Dionisio |                  |
+| 06/05/2021 | 0.3    | Adição da verificação e conclusão             | Giovana Dionisio |                  |
 
 ## Contexto 
 <p align="justify"> O documento avaliado foi o de <a href = "https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/">Planejamento da Avaliação do Protótipo de Alta-Fidelidade.</a></p>
 
 ## Metodologia
-<p align="justify"> Técnica utilizada: Leitura Checkist.</a></p>
+<p align="justify"> Técnica utilizada: Leitura Checklist.</a></p>
 <p align="justify"> Autor e Inspetor: Giovana Dionisio.</a></p>
 
 ## Checklist
@@ -19,6 +20,7 @@
 * A ortografia do texto está correta?
 * A formatação do texto está correta?
 * O versionamento do documento está completo?
+* As imagens possuem legendas?
 * Existe uma explicação sobre o assunto abordado?
 
 ### Técnica
@@ -29,11 +31,12 @@
 ### Documento
 | Perguntas |      |
 | --------- | ---- |
-| 1         |      |
-| 2         |      |
-| 3         |      |
-| 4         |      |
-| 5         |      |
+| 1         |✔     |
+| 2         |✔     |
+| 3         |✔     |
+| 4         |✔     |
+| 5         |✔     |
+| 6         |✔     |
 
 *Legenda:  
     ✔ = está contido.  
@@ -42,9 +45,12 @@
 ### Técnica
 | Perguntas |      |
 | --------- | ---- |
-| 1         |      |
-| 2         |      |
+| 1         |✔     |
+| 2         |✔     |
 
 *Legenda:  
     ✔ = está contido.  
     ✖ = não está contido.*
+
+## Conclusão
+<p align="justify"> De acordo com a verificação, o documendo está de acordo com o esperado. </p>
