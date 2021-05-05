@@ -54,7 +54,7 @@ nav:
             - Análise de requisitos:
                   - Análise do Perfil de Usuário: 
                         - Análise de tarefas: 'Verificacao/AnaliseRequisitos/AnalisePerfil/analise_tarefas.md'
-                        - Perfil do usuário: 'Verificacao/AnaliseRequisitos/AnalisePerfil/perfil_usuario.md'
+                        - Perfil do Usuário: 'Verificacao/AnaliseRequisitos/AnalisePerfil/perfil_usuario.md'
                         - Personas: 'Verificacao/AnaliseRequisitos/AnalisePerfil/personas.md'
                   - Princípios Gerais de Projeto: 'Verificacao/AnaliseRequisitos/principios_gerais.md'
                   - Características da Plataforma: 'Verificacao/AnaliseRequisitos/caracteristicas.md'

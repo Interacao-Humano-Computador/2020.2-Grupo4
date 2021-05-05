@@ -1,4 +1,4 @@
-# Perfil do usuário
+# Perfil do Usuário
 
 ## Histórico de Versões
 | Data       | Versão | Descrição            | Autores                             | Revisor |
@@ -63,7 +63,7 @@ _(Imagens produzidas através de capturas de tela da aplicação Google Forms. A
 
 ## Análise
 
-Podemos concluir que a maioria das pessoas consideram importante a estética e a acessibilidade de qualquer site. Em relação às pessoas que já acessaram a plataforma do CIL 2 BSB, metade gostou da estética e organização dele. A grande maioria dessas pessoas são estudantes ou ex estudantes e o nível de satisfação com o site foi médio. Também foi sugerida a opção dos usuários terem um login próprio para visualizarem suas informações pessoais como notas, frequência e grade horária e 84% considerou a opção como muito importante.
+<p align="justify">Podemos concluir que a maioria das pessoas consideram importante a estética e a acessibilidade de qualquer site. Em relação às pessoas que já acessaram a plataforma do CIL 2 BSB, metade gostou da estética e organização dele. A grande maioria dessas pessoas são estudantes ou ex estudantes e o nível de satisfação com o site foi médio. Também foi sugerida a opção dos usuários terem um login próprio para visualizarem suas informações pessoais como notas, frequência e grade horária e 84% considerou a opção como muito importante.</p>
 
 ##### Alguns problemas relatados a partir do uso da plataforma são:
 - Falta de informações; 
