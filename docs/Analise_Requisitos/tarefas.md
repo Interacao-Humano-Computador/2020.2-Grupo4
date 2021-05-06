@@ -81,13 +81,13 @@ _Figura3: Análise de Tarefas Persona Secundária. Autor: Eduarda Servidio._
 
 ### 4.2 KLM
 
-###4.2.1 Definição KLM
+####4.2.1 Definição KLM
 
 <p align="justify">É uma técnica GOMS simples, a qual limita-se a um conjunto predefinido de operadores.</p>
 
 ### 4.3 CMN-GOMS
 
-###4.3.1 Definição CMN-GOMS
+####4.3.1 Definição CMN-GOMS
 
 <p align="justify">É a proposta original do GOMS. "Há uma hierarquia estrita de objetivos, os operadores são executados estritamente em ordem sequencial, e os métodos são representados numa notação semelhante a um pseudocódigo, que inclui submétodos e condicionais." (Barbosa e Silva, 2019)</p>
 Será realizada a análise de CMN-GOMS para cada uma das personas primárias apresentadas.
@@ -100,7 +100,7 @@ Para a análise usaremos os seguintes termos
     OP : Ações concretas que o Cil2bsb oferece.
     METHOD : Sequência de subobjetivos e operadores para atingir um objetivo.
 
-###4.4.1 Ana Júlia Silva
+####4.4.1 Ana Júlia Silva
 
     Goal 0 : Acessar o site do CIL2BSB
         OP : Acessar o site http://www.cil2bsb.com.br/ em seu navegador de preferência.
@@ -113,7 +113,7 @@ Para a análise usaremos os seguintes termos
         OP : Clicar com o mouse na aba "Fale Conosco", no menu superior
         OP : Selecionar o melhor meio de contato disponível
 
-###4.4.2 Fernanda Siqueira
+####4.4.2 Fernanda Siqueira
 
     Goal 0 : Acessar o site do CIL2BSB
         OP : acessar o site http://www.cil2bsb.com.br/ em seu navegador de preferência.
