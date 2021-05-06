@@ -8,6 +8,7 @@
 | 16/03/2021 | 0.4    | Adição de analise, e GOMS da persona 2               | Luis Marques                                               | Eduarda Servidio |
 | 16/03/2021 | 0.5    | Correção: Análise de GOMS e Complementação: Esquema da Análise de Tarefas (Persona Primaria 2) | Eduarda Servidio | Pedro Haick      |
 | 16/03/2021 | 0.6    | Análise de tarefas e GOMS da persona 1               | Pedro Haick                                                | Hérya Rodrigues  |
+| 06/05/2021 | 0.7    | Correções feitas a partir da verificação             | Eduarda Servidio                                                | Hérya Rodrigues  |
 
 ## 1. Definição
 
