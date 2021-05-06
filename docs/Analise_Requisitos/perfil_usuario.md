@@ -9,7 +9,7 @@
 | 16/03/2021 | 0.4    | Adição dos Resultados e da Análise | Gabriela Pivetta | Giovana Dionisio |
 | 18/03/2021 | 0.5    | Adição do questionário | Giovana Dionisio |  Eduarda Servidio |
 | 18/03/2021 | 0.6    | Referências imagens | Giovana Dionisio |  Eduarda Servidio |
-| 05/05/2021 | 0.6    | Corrigindo título e formatação | Giovana Dionisio |       |
+| 05/05/2021 | 0.6    | Corrigindo título e formatação | Giovana Dionisio | Eduarda Servidio |
 
 ## Introdução 
 <p align="justify"> Perfil de usuário trata de uma descrição detalhada sobre o perfil das pessoas cujo produto pretende apoiar. O seu levantamento é uma atividade interativa onde são levantados dados que auxiliam o entendimento de para quem o produto está sendo construído. </p>
