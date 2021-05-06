@@ -3,13 +3,13 @@
 ## Histórico de Versões
 | Data       | Versão | Descrição                                     | Autores          | Revisor          |
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
-| 04/05/2021 | 0.1    | Criação do documento                          | Giovana Dionisio |                  |
-| 05/05/2021 | 0.2    | Adição do Checklist e das tabelas             | Giovana Dionisio |                  |
-| 05/05/2021 | 0.3    | Adição da verificação e conclusão             | Giovana Dionisio |                  |
-| 06/05/2021 | 0.4    | Adição de bibliografia                        | Giovana Dionisio |                  |
+| 04/05/2021 | 0.1    | Criação do documento                          | Giovana Dionisio | Hérya Rodrigues  |
+| 05/05/2021 | 0.2    | Adição do Checklist e das tabelas             | Giovana Dionisio | Hérya Rodrigues  |
+| 05/05/2021 | 0.3    | Adição da verificação e conclusão             | Giovana Dionisio | Hérya Rodrigues  |
+| 06/05/2021 | 0.4    | Adição de bibliografia                        | Giovana Dionisio | Hérya Rodrigues  |
 
 ## Contexto 
-<p align="justify"> Este documento trata de uma verificação sobre o artefato <a href = "https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/tarefas/">Perfil de Usuário.</a></p>
+<p align="justify"> Este documento trata de uma verificação sobre o artefato <a href = "https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/perfil_usuario/">Perfil de Usuário.</a></p>
 
 ## Metodologia
 <p align="justify"> Técnica utilizada: Leitura Checklist.</p>
@@ -58,7 +58,7 @@
     ✖ = não está contido.*
 
 ## Conclusão
-<p align="justify"> Através da verificação através do Checklist foi possível identificar que o título do documento foge à ortografia no que diz respeito ao uso de letras maiúsculas e minúsculas. Além disso, o texto não está dentro dos padrões da equipe por possuir parágrafos que não estão justificados. </p>
+<p align="justify"> Através da verificação do Checklist foi possível identificar que o título do documento foge à ortografia no que diz respeito ao uso de letras maiúsculas e minúsculas. Além disso, o texto não está dentro dos padrões da equipe por possuir parágrafos que não estão justificados. </p>
 
 ## Acompanhamento
 <p align="justify"> Os problemas encontrados durante a verificação foram corrigidos. </p>
