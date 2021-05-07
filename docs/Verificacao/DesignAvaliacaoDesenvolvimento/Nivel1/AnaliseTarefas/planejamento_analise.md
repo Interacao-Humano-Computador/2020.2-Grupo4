@@ -3,10 +3,10 @@
 ## Histórico de Versões
 | Data       | Versão | Descrição                                     | Autores          | Revisor          |
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
-| 04/05/2021 | 0.1    | Criação do documento                          | Giovana Dionisio |                  |
-| 05/05/2021 | 0.2    | Adição do Checklist e das tabelas             | Giovana Dionisio |                  |
-| 05/05/2021 | 0.3    | Adição da verificação e conclusão             | Giovana Dionisio |                  |
-| 06/05/2021 | 0.4    | Adição de bibliografia                        | Giovana Dionisio |                  |
+| 04/05/2021 | 0.1    | Criação do documento                          | Giovana Dionisio | Eduarda Servidio |
+| 05/05/2021 | 0.2    | Adição do Checklist e das tabelas             | Giovana Dionisio | Eduarda Servidio |
+| 05/05/2021 | 0.3    | Adição da verificação e conclusão             | Giovana Dionisio | Eduarda Servidio |
+| 06/05/2021 | 0.4    | Adição de bibliografia                        | Giovana Dionisio | Eduarda Servidio |
 
 ## Contexto 
 <p align="justify"> Este documento trata de uma verificação sobre o artefato <a href = "https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_analise_tarefas/">Planejamento da Avaliação da Análise de Tarefas.</a></p>
