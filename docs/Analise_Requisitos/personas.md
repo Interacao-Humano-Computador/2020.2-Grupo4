@@ -9,8 +9,8 @@
 | 15/03/2021 | 0.5    | Adição e detalhamento da persona 3      | Eduarda Servidio                    | Hérya Rodrigues    |
 | 15/03/2021 | 0.6    | Adição e detalhamento da anti-persona 1 | Hérya Rodrigues                     | Eduarda Servidio   |
 | 16/03/2021 | 0.7    | detalhamento da persona 2               | Luis Gustavo                        | Eduarda Servidio   |
-| 06/05/2021 | 0.8    | Correção do documento a partir da verificação feita         |  Eduarda Servidio   | Lus Gustavo |
-| 06/05/2021 | 0.9    | Correção da formatação das legandas         |  Giovana Dionisio   |  |
+| 06/05/2021 | 0.8    | Correção do documento a partir da verificação feita         |  Eduarda Servidio   | Luis Gustavo |
+| 06/05/2021 | 0.9    | Correção da formatação das legandas         |  Giovana Dionisio   | Eduarda Servidio |
 
 ## Introdução
 
