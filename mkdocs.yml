@@ -34,7 +34,7 @@ nav:
             - Nível 1:
                   - Análise de tarefas:
                         - Planejamento da Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/planejamento_analise_tarefas.md'
-                        - Teste Piloto: 'Design_avaliacao_desenvolvimento/teste_piloto_tarefa.md'
+                        - Teste Piloto da Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/teste_piloto_tarefa.md'
                         - Avaliação da Análise de Tarefas: 'Design_avaliacao_desenvolvimento/avaliacao_analise_tarefas.md'
                   - Storyboard:
                         - Storyboard: 'Design_avaliacao_desenvolvimento/storyboard.md'

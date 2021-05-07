@@ -1,9 +1,10 @@
-# Teste Piloto
+# Teste Piloto da Avaliação da Análise de Tarefas
 
 | Data       | Versão | Descrição                         | Autores         | Revisor      |
 | ---------- | ------ | --------------------------------- | --------------- | ------------ |
 | 08/04/2021 | 0.1    | Criação e elaboração do documento | Hérya Rodrigues | Pedro Haick  |
-| 06/05/2021 | 0.2    | Adição de tarefas na metodologia  | Hérya Rodrigues |              |
+| 06/05/2021 | 0.2    | Adição de tarefas na metodologia  | Hérya Rodrigues | Giovana Dionisio |
+| 06/05/2021 | 0.3    | Correção do título do documento   | Giovana Dionisio |              |
 
 ## Introdução
 <p align="justify">O teste piloto ocorrerá na forma de uma pequena entrevista, com participantes que se encaixem nos perfis de usuários já estabelecidos, e guiada por perguntas e pela realização de atividades simples.</p>
