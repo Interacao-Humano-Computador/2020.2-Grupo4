@@ -2,18 +2,21 @@
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                         | Autores          | Revisor          |
-| ---------- | ------ | --------------------------------- | ---------------- | ---------------- |
-| 07/04/2021 | 0.1    | Criação e elaboração do documento | Luis Marques     | -----            |
-| 08/04/2021 | 0.2    | Edição do documento               | Luis Marques     | Giovana Dionisio |
-| 08/04/2021 | 0.3    | Correção de erros ortográficos    | Giovana Dionisio | ----             |
-| 22/04/2021 | 0.3    | Realizado formatação no texto     | Luis Marques     | ----             |
+| Data       | Versão | Descrição                          | Autores          | Revisor          |
+| ---------- | ------ | ---------------------------------- | ---------------- | ---------------- |
+| 07/04/2021 | 0.1    | Criação e elaboração do documento  | Luis Marques     | -----            |
+| 08/04/2021 | 0.2    | Edição do documento                | Luis Marques     | Giovana Dionisio |
+| 08/04/2021 | 0.3    | Correção de erros ortográficos     | Giovana Dionisio | ----             |
+| 22/04/2021 | 0.4    | Realizado formatação no texto      | Luis Marques     | ----             |
+| 07/05/2021 | 0.5    | Correções Apontadas na verificação | Luis Marques     | ----             |
 
 ## Metodologia
 
 <p align = "justify"> Para realização da validação do storyboard será realizada uma entrevista com as personas, representadas pelos próprios integrantes do grupo, onde será utilizado o roteiro de perguntas que foi desenvolvido no planejamento do storyboard</p>
 
 <p align = "justify"> Para a realização os participantes foram convidados para visualizar o storyboard e, após essa visualização, foram realizadas as perguntas às personas.</p>
+
+<p align = "justify"> Para esta avaliação o integrante Luis Marques foi o avaliador e conduziu a entrevista, realizando as perguntas para as personas.</p>
 
 ### Roteiro de perguntas
 

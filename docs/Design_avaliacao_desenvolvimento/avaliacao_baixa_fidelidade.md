@@ -2,12 +2,21 @@
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                                                                                                 | Autores         | Revisor      |
-| ---------- | ------ | ------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------ |
-| 28/04/2021 | 0.1    | Criação do documento                                                                                                      | Hérya Rodrigues | Luis Marques |
-| 28/04/2021 | 0.2    | Adição da avaliação da tarefa 3                                                                                           | Hérya Rodrigues | Luis Marques |
-| 28/04/2021 | 0.3    | Inicialização da avaliação da tarefa 1                                                                                    | Hérya Rodrigues | Luis Marques |
-| 28/04/2021 | 0.4    | Adição da avaliação da tarefa 2, atualização na avaliação da tarefa 1, adição termo de consentimento e correções diversas | Luis Marques    | Hérya Rodrigues       |
+| Data       | Versão | Descrição                                                                                                                 | Autores         | Revisor         |
+| ---------- | ------ | ------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
+| 28/04/2021 | 0.1    | Criação do documento                                                                                                      | Hérya Rodrigues | Luis Marques    |
+| 28/04/2021 | 0.2    | Adição da avaliação da tarefa 3                                                                                           | Hérya Rodrigues | Luis Marques    |
+| 28/04/2021 | 0.3    | Inicialização da avaliação da tarefa 1                                                                                    | Hérya Rodrigues | Luis Marques    |
+| 28/04/2021 | 0.4    | Adição da avaliação da tarefa 2, atualização na avaliação da tarefa 1, adição termo de consentimento e correções diversas | Luis Marques    | Hérya Rodrigues |
+| 07/05/2021 | 0.5    | Correções encontradas durante a verificação                                                                               | Luis Marques    | ----            |
+
+## Introdução
+
+<p align="justify">A avaliação dos protótipos desenvolvidos ao longo de um ciclo de vida na engenharia de software, e de suma importância para o desenvolvimento, podendo na maioria dos casos realizar a validação se a ideia e visão dos desenvolvedores do sistema está de acordo com as expectativas dos clientes e usuários.</p>
+
+<p align="justify">Para a realização do protótipo de baixa fidelidade foi realizado um teste de usabilidade do protótipo, este teste foi realizado com um usuário real e com 2 personas primarias, para cada participante foi designada uma tarefa diferente a ser realizada dentro do protótipo. está interação entre o usuário e o sistema foi registrada em video, e posteriormente analisada pelos avaliadores.</p>
+
+<p align="justify">Para esta avaliação do protótipo de baixa fidelidade foram selecionados os avaliadores Luis Marques e Hérya Rodrigues para a realização da avaliação e análise dos dados.</p>
 
 ## Termo de consentimento
 
@@ -101,16 +110,16 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 <p align="justify">O vídeo a seguir registra a interação da usuária com o protótipo de baixa-fidelidade.</p>
 ----- 
 <video style="width:100%" controls src="../images/tarefa2.mp4" type="video/mp4">
-</video>----- 
+</video>-----
 
 #### Entrevista
 
 Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
-| Pergunta                                                              | Resposta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Em algum momento você sentiu dificuldade na execução da tarefa?       | Não na execução, tive dificuldades de encontrar a informação no site.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| O que você achou da apresentação visual no protótipo?                 | Por se tratar de um protótipo inicial, está muito bem feito. Porém, a organização dos itens do site poderia melhorar                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Pergunta                                                              | Resposta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Em algum momento você sentiu dificuldade na execução da tarefa?       | Não na execução, tive dificuldades de encontrar a informação no site.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| O que você achou da apresentação visual no protótipo?                 | Por se tratar de um protótipo inicial, está muito bem feito. Porém, a organização dos itens do site poderia melhorar                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | O que você acha que pode ser feito para melhorar essa funcionalidade? | Na realização da tarefa. Não me passou pela cabeça que a matrícula estaria na guia de aluno(por geralmente se tratar de uma área restrita do site, com login e senha), então a primeira ideia que tive, foi na guia de Fale Conosco, buscar o número de telefone para buscar estas informações por via telefônica. Após esta ideia inicial, pensei em buscar na guia de notícias, pois muito possivelmente as informações de novas matrículas seriam noticiadas. E, por último, acessei a guia de alunos, e por fim encontrei as informações de matrícula. |
 
 ### Interpretação e consolidação dos resultados
