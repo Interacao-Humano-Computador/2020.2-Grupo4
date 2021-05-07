@@ -5,6 +5,7 @@
 | Data       | Versão | Descrição                                              | Autores          | Revisor         |
 | ---------- | ------ | ------------------------------------------------------ | ---------------- | --------------- |
 | 07/05/2021 | 0.1    | Criação do Documento                                   | Gabriela Pivetta | Pedro Haick     |
+| 07/05/20201| 0.2    | Correção de erros de digitação                         | Pedro Haick      | --------------- |
 
 ## Introdução
 
@@ -153,7 +154,7 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 #### Tarefa
 
-<p align="justify">A tarefa a ser avaliada será a de encontrar notícias sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/">rotótipo de alta-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/"> no Planejamento da Avaliação do protótipo de Alta-Fidelidade</a>.
+<p align="justify">A tarefa a ser avaliada será a de encontrar notícias sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/">protótipo de alta-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/"> no Planejamento da Avaliação do protótipo de Alta-Fidelidade</a>.
 </p>
 
 #### Participante
