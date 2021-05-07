@@ -1,27 +1,22 @@
-# Avaliação do Protótipo de Baixa-Fidelidade
+# Avaliação do Protótipo de Alta-Fidelidade
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                                                                                                 | Autores         | Revisor         |
-| ---------- | ------ | ------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
-| 28/04/2021 | 0.1    | Criação do documento                                                                                                      | Hérya Rodrigues | Luis Marques    |
-| 28/04/2021 | 0.2    | Adição da avaliação da tarefa 3                                                                                           | Hérya Rodrigues | Luis Marques    |
-| 28/04/2021 | 0.3    | Inicialização da avaliação da tarefa 1                                                                                    | Hérya Rodrigues | Luis Marques    |
-| 28/04/2021 | 0.4    | Adição da avaliação da tarefa 2, atualização na avaliação da tarefa 1, adição termo de consentimento e correções diversas | Luis Marques    | Hérya Rodrigues |
-| 07/05/2021 | 0.5    | Correções encontradas durante a verificação                                                                               | Luis Marques    | Giovana Dionisio e Gabriela Pivetta       |
-| 07/05/2021 | 0.6    | Correções nos textos                                       | Gabriela Pivetta    | ------------            |
+| Data       | Versão | Descrição                                              | Autores          | Revisor         |
+| ---------- | ------ | ------------------------------------------------------ | ---------------- | --------------- |
+| 07/05/2021 | 0.1    | Criação do Documento                                   | Gabriela Pivetta | --------------- |
 
 ## Introdução
 
 <p align="justify">As avaliações dos protótipos desenvolvidos ao longo de um ciclo de vida na engenharia de software são de suma importância para o desenvolvimento, podendo, na maioria dos casos, validar se a ideia e a visão dos desenvolvedores do sistema estão de acordo com as expectativas dos clientes e usuários.</p>
 
-<p align="justify">Para a avaliação do protótipo de baixa fidelidade foi realizado um teste de usabilidade do protótipo, este teste foi realizado com um usuário real e com 2 personas primarias, para cada participante foi designada uma tarefa diferente a ser realizada dentro do protótipo. Esta interação entre o usuário e o sistema foi registrada em vídeo, e posteriormente analisada pelos avaliadores.</p>
+<p align="justify">Para a avaliação do protótipo de alta fidelidade foi realizado um teste de usabilidade do protótipo, com um usuário real e com 2 personas primarias, para cada participante foi designada uma tarefa diferente a ser realizada dentro do protótipo. Esta interação entre o usuário e o sistema foi registrada em vídeo, e posteriormente analisada pelos avaliadores.</p>
 
-<p align="justify">Para esta avaliação do protótipo de baixa fidelidade foram selecionados os avaliadores Luis Marques e Hérya Rodrigues para a realização da avaliação e análise dos dados.</p>
+<p align="justify">Para a tarefa descrita foram selecionados os avaliadores Gabriela Pivetta e Pedro Haick para a realização da avaliação e análise dos dados.</p>
 
 ## Termo de consentimento
 
-<p align="justify">Para a realização da avaliação, foi desenvolvido um termo de consentimento que foi previamente disponibilizado aos participantes da pesquisa. Com a devida autorização dos participantes, os testes foram iniciados.</p>
+<p align="justify">Para a realização da avaliação, foi desenvolvido um termo de consentimento, previamente disponibilizado aos participantes da pesquisa. Com a devida autorização dos participantes, os testes foram iniciados.</p>
 
 <p align="justify">Abaixo, o termo de consentimento.</p>
 
@@ -34,7 +29,7 @@ Documento 1: Termo de Consentimento
 
 #### Tarefa
 
-<p align="justify">A tarefa a ser avaliada será a de descobrir mais informações sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/">protótipo de baixa-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo/"> no Planejamento da Avaliação do protótipo de Baixa-Fidelidade</a>.
+<p align="justify">A tarefa a ser avaliada será a de descobrir mais informações sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/">Protótipo de Alta-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo/"> Planejamento da Avaliação do protótipo de Baixa-Fidelidade</a>.
 </p>
 
 #### Participante
@@ -95,7 +90,7 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 #### Tarefa
 
-<p align="justify">A tarefa a ser avaliada será a de encontrar informações sobre como realizar a matrícula nos cursos do CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/">protótipo de baixa-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo/"> no Planejamento da Avaliação do protótipo de Baixa-Fidelidade</a>.
+<p align="justify">A tarefa a ser avaliada será a de encontrar informações sobre como realizar a matrícula nos cursos do CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/">protótipo de alta-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/"> no Planejamento da Avaliação do protótipo de Alta-Fidelidade</a>.
 </p>
 
 #### Participante
@@ -167,7 +162,7 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 #### Tarefa
 
-<p align="justify">A tarefa a ser avaliada será a de encontrar notícias sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/">protótipo de baixa-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo/"> no Planejamento da Avaliação do protótipo de Baixa-Fidelidade</a>.
+<p align="justify">A tarefa a ser avaliada será a de encontrar notícias sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/">Protótipo de Alta-Fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo/"> no Planejamento da Avaliação do protótipo de Baixa-Fidelidade</a>.
 </p>
 
 #### Participante
