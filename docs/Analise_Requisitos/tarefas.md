@@ -22,9 +22,14 @@ usuários querem ou precisam atingir." (Barbosa e Silva, 2019)</p>
 
 ## 3. Análise Hierárquica de Tarefas: HTA
 
-###3.1 Personas primárias
+### 3.1 Definição
+<p align="justify">A Análise Hierárquica de Tarefas (HTA) foi desenvolvida para atender as competências e
+habilidades exibidas em tarefas complexas não repetitivas, bem como auxiliar na
+identificação de problemas de desempenho. A HTA ajuda a relacionar o que as pessoas fazem, por que
+o fazem, e quais as consequências caso não façam corretamente. (Barbosa e Silva, 2019)</p>
+###3.2 Personas primárias
 
-####3.1.1 Ana Júlia Silva
+####3.2.1 Ana Júlia Silva
 
 <p align="justify">A primeira análise de persona primária será de Ana Júlia Silva, 16 anos, que quer descobrir mais sobre o CIL2-BSB e aprender a utilizar o site.</p>
 <img alt = "Analise de Tarefas Persona Primária 1" src="../../Analise_Requisitos/Images/Analise_Persona_Primaria_1.jpg" width = "600"/>
@@ -38,7 +43,7 @@ _Figura1: Análise de Tarefas Persona Primária 1. Autor: Pedro Haick._
 | Visualizar as notícias                        | <b>Ação</b>: selecionar na aba superior "Notícias"     |
 | Entrar em contato                             | <b>Ação</b>: selecionar na aba superior "Fale conosco" |
 
-####3.1.2 Fernanda Siqueira
+####3.2.2 Fernanda Siqueira
 
 <p align="justify">Nossa segunda análise de persona primária será de Fernanda Siqueira, 17 anos, que busca informações de como realizar a matrícula no CIL2-BSB.</p>
 <img alt = "Analise de Tarefas Persona Primária 2" src="../../Analise_Requisitos/Images/Analise_Persona_Primaria_2.jpg" width = "600"/>
@@ -51,8 +56,8 @@ _Figura2: Análise de Tarefas Persona Primária 2. Autores: Luis Marques e Eduar
 | Acessar as opções para alunos                 | <b>Ação</b>: selecionar na aba superior "Alunos" ou rolar a página Home até o final e selecionar Matrículas Novas a direita da tela       |
 | Acessar as informações sobre novas matrículas | <b>Ação</b>: Selecionar na Matrículas novas            |
 
-###3.2 Persona Secundária
-####3.2.1 Milena Barbosa
+###3.3 Persona Secundária
+####3.3.1 Milena Barbosa
 
 <p align="justify">Nossa análise de persona secundária tem como foco Milena Barbosa, 38 anos, professora de língua inglesa do CIL2-BSB que pretende estar ciente de todas as possíveis notícias que envolvem o CIL2BSB através do site deles.</p>
 <img alt = "Analise de Tarefas Persona Secundaria" src="../../Analise_Requisitos/Images/Analise_Persona_Secundaria.jpg" width = "600"/>
