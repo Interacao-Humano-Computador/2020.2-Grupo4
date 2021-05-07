@@ -1,4 +1,4 @@
-# Avaliação do Protótipo de Baixa Fidelidade
+# Avaliação do Protótipo de Baixa-Fidelidade
 
 ## Histórico de Versões
 
@@ -8,7 +8,7 @@
 | 28/04/2021 | 0.2    | Adição da avaliação da tarefa 3                                                                                           | Hérya Rodrigues | Luis Marques    |
 | 28/04/2021 | 0.3    | Inicialização da avaliação da tarefa 1                                                                                    | Hérya Rodrigues | Luis Marques    |
 | 28/04/2021 | 0.4    | Adição da avaliação da tarefa 2, atualização na avaliação da tarefa 1, adição termo de consentimento e correções diversas | Luis Marques    | Hérya Rodrigues |
-| 07/05/2021 | 0.5    | Correções encontradas durante a verificação                                                                               | Luis Marques    | ----            |
+| 07/05/2021 | 0.5    | Correções encontradas durante a verificação                                                                               | Luis Marques    | Giovana Dionisio            |
 
 ## Introdução
 

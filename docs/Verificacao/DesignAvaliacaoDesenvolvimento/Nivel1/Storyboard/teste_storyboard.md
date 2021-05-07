@@ -7,6 +7,7 @@
 | 05/05/2021 | 0.2    | Adição do Checklist e das tabelas             | Giovana Dionisio |                  |
 | 05/05/2021 | 0.3    | Adição da verificação e conclusão             | Giovana Dionisio |                  |
 | 06/05/2021 | 0.4    | Adição de bibliografia                        | Giovana Dionisio |                  |
+| 06/05/2021 | 0.5    | Adição de acompanhamento                      | Giovana Dionisio |                  |
 
 ## Contexto 
 <p align="justify"> Este documento trata de uma verificação sobre o artefato <a href = "https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/teste_piloto_storyboard/">Teste Piloto da Avaliação do Storyboard.</a></p>
@@ -57,6 +58,9 @@
 
 ## Conclusão
 <p align="justify"> Através da verificação por checklist foi possível identificar que o título do documento não reflete o conteúdo do mesmo, que existem erros ortográficos ao longo do texto, que o versionamento não está completo e que existem erros com a formatação pelo fato de "Bibliografia" (que contém tópicos duplicados) constar como um subtópico de "Resultados". Além disso, o teste piloto não está relatado de forma clara. </p>
+
+## Acompanhamento
+<p align="justify"> Os problemas encontrados durante a verificação foram corrigidos. </p>
 
 ## Bibliografia 
 <p align="justify"> <b> Lista de Verificação da Qualidade de Artefatos - Checklist Ágil</b>. Disponível em: <a href = "https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view"> https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view </a>. Acesso em 06 de maio de 2021</p>

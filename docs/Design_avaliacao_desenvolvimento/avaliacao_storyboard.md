@@ -4,11 +4,11 @@
 
 | Data       | Versão | Descrição                          | Autores          | Revisor          |
 | ---------- | ------ | ---------------------------------- | ---------------- | ---------------- |
-| 07/04/2021 | 0.1    | Criação e elaboração do documento  | Luis Marques     | -----            |
+| 07/04/2021 | 0.1    | Criação e elaboração do documento  | Luis Marques     | Giovana Dionisio |
 | 08/04/2021 | 0.2    | Edição do documento                | Luis Marques     | Giovana Dionisio |
-| 08/04/2021 | 0.3    | Correção de erros ortográficos     | Giovana Dionisio | ----             |
-| 22/04/2021 | 0.4    | Realizado formatação no texto      | Luis Marques     | ----             |
-| 07/05/2021 | 0.5    | Correções Apontadas na verificação | Luis Marques     | ----             |
+| 08/04/2021 | 0.3    | Correção de erros ortográficos     | Giovana Dionisio | Giovana Dionisio |
+| 22/04/2021 | 0.4    | Realizado formatação no texto      | Luis Marques     | Giovana Dionisio |
+| 07/05/2021 | 0.5    | Correções Apontadas na verificação | Luis Marques     | Giovana Dionisio |
 
 ## Metodologia
 

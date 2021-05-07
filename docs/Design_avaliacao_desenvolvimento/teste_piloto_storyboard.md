@@ -4,9 +4,9 @@
 
 | Data       | Versão | Descrição                                 | Autores      | Revisor |
 | ---------- | ------ | ----------------------------------------- | ------------ | ------- |
-| 08/04/2021 | 0.1    | Criação e elaboração do documento         | Luis Marques | -----   |
-| 08/04/2021 | 0.2    | Adição de tópicos, é edição do texto      | Luis Marques | -----   |
-| 07/05/2021 | 0.3    | Adição dos Objetivos e correções diversas | Luis Marques | -----   |
+| 08/04/2021 | 0.1    | Criação e elaboração do documento         | Luis Marques | Giovana Dionisio   |
+| 08/04/2021 | 0.2    | Adição de tópicos, é edição do texto      | Luis Marques | Giovana Dionisio   |
+| 07/05/2021 | 0.3    | Adição dos Objetivos e correções diversas | Luis Marques | Giovana Dionisio   |
 
 ## Introdução
 
