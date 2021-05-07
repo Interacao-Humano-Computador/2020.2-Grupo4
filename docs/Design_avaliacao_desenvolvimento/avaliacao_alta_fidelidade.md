@@ -4,13 +4,13 @@
 
 | Data       | Versão | Descrição                                              | Autores          | Revisor         |
 | ---------- | ------ | ------------------------------------------------------ | ---------------- | --------------- |
-| 07/05/2021 | 0.1    | Criação do Documento                                   | Gabriela Pivetta | --------------- |
+| 07/05/2021 | 0.1    | Criação do Documento                                   | Gabriela Pivetta | Pedro Haick     |
 
 ## Introdução
 
 <p align="justify">As avaliações dos protótipos desenvolvidos ao longo de um ciclo de vida na engenharia de software são de suma importância para o desenvolvimento, podendo, na maioria dos casos, validar se a ideia e a visão dos desenvolvedores do sistema estão de acordo com as expectativas dos clientes e usuários.</p>
 
-<p align="justify">Para a avaliação do protótipo de alta fidelidade foi realizado um teste de usabilidade do protótipo, com um usuário real e com 2 personas primarias, para cada participante foi designada uma tarefa diferente a ser realizada dentro do protótipo. Esta interação entre o usuário e o sistema foi registrada em vídeo, e posteriormente analisada pelos avaliadores.</p>
+<p align="justify">Para a avaliação do protótipo de alta fidelidade foi realizado um teste de usabilidade do protótipo, com um usuário real e com 2 personas primárias, para cada participante foi designada uma tarefa diferente a ser realizada dentro do protótipo. Esta interação entre o usuário e o sistema foi registrada em vídeo, e posteriormente analisada pelos avaliadores.</p>
 
 <p align="justify">Para a tarefa descrita foram selecionados os avaliadores Gabriela Pivetta e Pedro Haick para a realização da avaliação e análise dos dados.</p>
 
@@ -29,7 +29,7 @@ Documento 1: Termo de Consentimento
 
 #### Tarefa
 
-<p align="justify">A tarefa a ser avaliada será a de descobrir mais informações sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/">Protótipo de Alta-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/"> Planejamento da Avaliação do protótipo de Alta-Fidelidade</a>.
+<p align="justify">A tarefa a ser avaliada será a de descobrir mais informações sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/">protótipo de alta-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/"> Planejamento da Avaliação do protótipo de Alta-Fidelidade</a>.
 </p>
 
 #### Participante
@@ -71,7 +71,7 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 #### Conclusão
 
-<p align="justify">Com base na observação e relatos da participante, percebeu-se que o protótipo de baixa-fidelidade possibilita a realização da tarefa. Sem dificuldades, de forma simples e fácil.</p>
+<p align="justify">Com base na observação e relatos da participante, percebeu-se que o protótipo de alta-fidelidade possibilita a realização da tarefa. Sem dificuldades, de forma simples e fácil.</p>
 
 
 
@@ -121,7 +121,7 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 #### 1: Tamanho das letras no site
 
--   Local onde ocorreu: Todo site
+-   Local onde ocorreu: Todo o site
 -   Fatores de usabilidade prejudicados: Estética e legibilidade
 -   Contexto: O tamanho das fontes do site estão pequenas para alguns usuários
 -   Causa: Tamanho da fonte utilizada
@@ -134,7 +134,7 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 -   Local onde ocorreu: Página Inicial
 -   Fatores de usabilidade prejudicados: Eficiência
--   Contexto: E contra-intuitivo as informações de matrícula constarem na guia alunos
+-   Contexto: É contra-intuitivo as informações de matrícula constarem na guia alunos
 -   Causa: Falta de botão/link
 -   Prioridade para correção: Média
 -   Sugestões de correção: Incluir botão na página inicial
@@ -153,7 +153,7 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 #### Tarefa
 
-<p align="justify">A tarefa a ser avaliada será a de encontrar notícias sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/">Protótipo de Alta-Fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/"> no Planejamento da Avaliação do protótipo de Alta-Fidelidade</a>.
+<p align="justify">A tarefa a ser avaliada será a de encontrar notícias sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/">rotótipo de alta-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/"> no Planejamento da Avaliação do protótipo de Alta-Fidelidade</a>.
 </p>
 
 #### Participante
@@ -213,7 +213,7 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 <p align="justify">Com base na observação e relatos da participante, percebeu-se que o protótipo de alta-fidelidade possibilita a realização da tarefa. Além disso, relatou que a paleta de cores e estética são agradáveis.</p>
 
-<p align="justify"> Ademais, os problemas de sobreposição de informações foram corrigidos e não estão presentes no protótipo de baixa-fidelidade.</p>
+<p align="justify"> Ademais, os problemas de sobreposição de informações foram corrigidos e não estão presentes no protótipo de alta-fidelidade.</p>
 
 <p align="justify">Por fim, foi sugerida a inserção de uma barra de pesquisa.</p>
 
