@@ -7,6 +7,8 @@
 | 05/05/2021 | 0.2    | Adição do Checklist e das tabelas             | Giovana Dionisio | Hérya Rodrigues  |
 | 05/05/2021 | 0.3    | Adição da verificação e conclusão             | Giovana Dionisio | Hérya Rodrigues  |
 | 06/05/2021 | 0.4    | Adição de bibliografia                        | Giovana Dionisio | Hérya Rodrigues  |
+| 07/05/2021 | 0.5    | Adição de acompanhamento                      | Hérya Rodrigues  |                  |
+
 
 ## Contexto 
 <p align="justify"> Este documento trata de uma verificação sobre o artefato <a href = "https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/avaliacao_analise_tarefas/">Avaliação da Análise de Tarefas.</a></p>
@@ -35,9 +37,9 @@
 | --------- | ---- |
 | 1         |✔     |
 | 2         |✔     |
-| 3         |✔     |
+| 3         |✖     |
 | 4         |✔     |
-| 5         |✔     |
+| 5         |✖     |
 
 *Legenda:  
     ✔ = está contido.  
@@ -47,7 +49,7 @@
 | Perguntas |      |
 | --------- | ---- |
 | 1         |✔     |
-| 2         |✔     |
+| 2         |✖     |
 | 3         |✔     |
 | 4         |✔     |
 
