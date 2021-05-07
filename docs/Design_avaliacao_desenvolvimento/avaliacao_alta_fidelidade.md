@@ -29,7 +29,7 @@ Documento 1: Termo de Consentimento
 
 #### Tarefa
 
-<p align="justify">A tarefa a ser avaliada será a de descobrir mais informações sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/">Protótipo de Alta-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo/"> Planejamento da Avaliação do protótipo de Baixa-Fidelidade</a>.
+<p align="justify">A tarefa a ser avaliada será a de descobrir mais informações sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/">Protótipo de Alta-fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/"> Planejamento da Avaliação do protótipo de Alta-Fidelidade</a>.
 </p>
 
 #### Participante
@@ -42,24 +42,22 @@ Documento 1: Termo de Consentimento
 
 <p align="justify">O vídeo a seguir registra a interação da usuária com o protótipo de baixa-fidelidade.</p>
 
-<video style="width:100%" controls src="../images/tarefa1.mp4" type="video/mp4">
+<video style="width:100%" controls src="../images/tarefa1-alta.mp4" type="video/mp4">
 </video>
 
 #### Entrevista
 
 Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
-| Pergunta                                                              | Resposta                                                         |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Em algum momento você sentiu dificuldade na execução da tarefa?       | Não                                                              |
-| O que você achou da apresentação visual no protótipo?                 | Boa, simples e direta                                            |
-| O que você acha que pode ser feito para melhorar essa funcionalidade? | Uma melhora nos efeitos visuais, a interface está muito quadrada |
+| Pergunta        | Resposta                                                         |
+| --------------- | ---------------------------------------------------------------- |
+| Em algum momento você sentiu dificuldade na execução da tarefa?       | Não        |
+| O que você achou da apresentação visual no protótipo?                 | Bonita, simples e com imagens relevantes  |
+| O que você acha que pode ser feito para melhorar essa funcionalidade? | Nada       |
 
 ### Interpretação e consolidação dos resultados
 
-<p align="justify">A participante não apresentou dificuldades na execução da tarefa, porém queixou-se de algumas características da estética do protótipo. </p>
-
-<p align="justify">A participante recomendou o arredondamento dos botões ,de forma a deixar a interface mais jovial e moderna.</p>
+<p align="justify">A participante não apresentou dificuldades na execução da tarefa, nem sugeriu melhorias. </p>
 
 ### Relato dos resultados
 
@@ -69,20 +67,15 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 #### Problemas de usabilidade ainda não corrigidos
 
-#### 1: Interface com designe antiquada
-
--   Local onde ocorreu: Todo site
--   Fatores de usabilidade prejudicados: Estética e design.
--   Contexto: A interface está antiquada aos padrões atuais de estética.
--   Causa: Botões e outros itens de interface
--   Prioridade para correção: Baixa.
--   Sugestões de correção: Refazer a interface.
+<p align="justify">Não foram relatados problemas de usabilidade.</p>
 
 #### Conclusão
 
 <p align="justify">Com base na observação e relatos da participante, percebeu-se que o protótipo de baixa-fidelidade possibilita a realização da tarefa. Sem dificuldades, de forma simples e fácil.</p>
 
-<p align="justify">Porém, foi identificado um problema estético no design do produto.</p>
+
+
+
 
 ## Tarefa 2: Encontrar informações sobre como realizar a matrícula nos cursos do CIL2BSB
 
@@ -95,40 +88,45 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 #### Participante
 
-<p align="justify">Foi convidada para participar da avaliação a estudante da Faculdade da Ceilândia Fernanda Oliveira R. Rocha. Fernanda tem 22 anos, está no 5° semestre de farmácia e utiliza diariamente sites na web para realização de pesquisas. Fernanda não tem vínculo com o CIL2BSB. </p>
+<p align="justify">A <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Analise_Requisitos/personas/">persona</a> Fernanda Siqueira foi escolhida para participar do teste e executar a tarefa. A participante tem 16 anos, é aluna do ensino médio e possui conhecimento básico sobre a utilização de sites.</p>
 
 ### Coleta de Dados
 
 <p align="justify">A participante foi informada sobre como o teste ocorreria e que tarefa deveria realizar. </p>
 
-<p align="justify">Durante o teste, percebeu-se que a participante teve dificuldade na interação com o protótipo. Foi constatado que o protótipo não estava responsivo,  de forma que no monitor do participante(proporção 4:3 , com resolução de 1024x768) todo o lado direito do protótipo era recortado, por se tratar de um protótipo de papel, em versão digital , tais problemas estão passíveis de ocorrerem. Sendo o teste realizado novamente em um monitor 16:9, e nesta nova proporção o protótipo se comportou de forma adequada.</p>
-
 <p align="justify">O vídeo a seguir registra a interação da usuária com o protótipo de baixa-fidelidade.</p>
 ----- 
-<video style="width:100%" controls src="../images/tarefa2.mp4" type="video/mp4">
+<video style="width:100%" controls src="../images/tarefa2-alta.mp4" type="video/mp4">
 </video>-----
 
 #### Entrevista
 
 Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
-| Pergunta                                                              | Resposta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Em algum momento você sentiu dificuldade na execução da tarefa?       | Não na execução, tive dificuldades de encontrar a informação no site.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| O que você achou da apresentação visual no protótipo?                 | Por se tratar de um protótipo inicial, está muito bem feito. Porém, a organização dos itens do site poderia melhorar                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| O que você acha que pode ser feito para melhorar essa funcionalidade? | Na realização da tarefa. Não me passou pela cabeça que a matrícula estaria na guia de aluno(por geralmente se tratar de uma área restrita do site, com login e senha), então a primeira ideia que tive, foi na guia de Fale Conosco, buscar o número de telefone para buscar estas informações por via telefônica. Após esta ideia inicial, pensei em buscar na guia de notícias, pois muito possivelmente as informações de novas matrículas seriam noticiadas. E, por último, acessei a guia de alunos, e por fim encontrei as informações de matrícula. |
+| Pergunta                           | Resposta                      |
+| ---------------------------------- | ----------------------------- |
+| Em algum momento você sentiu dificuldade na execução da tarefa?       | Tive dificuldades de encontrar a informação no site.                      |
+| O que você achou da apresentação visual no protótipo?                 | Por se tratar de um protótipo, está muito bem feito. A estética me agradou.      |
+| O que você acha que pode ser feito para melhorar essa funcionalidade? | A informação poderia estar mais clara e fácil de ser encontrada por ser bastante procurada, só encontrei os telefones para contato. Poderia ser adicionado um botão que redirecione ou uma barra de pesquisa. |
 
 ### Interpretação e consolidação dos resultados
 
-<p align="justify">A participante teve dificuldade em cumprir a tarefa, porém conseguiu encontrar as informações. </p>
+<p align="justify">A participante teve dificuldade em cumprir a tarefa. </p>
 
-<p align="justify">A participante recomendou a inclusão de um link ou botão na página Home, que redirecione para a página onde constam as informações de matrícula, além de uma possível barra de pesquisa.</p>
+<p align="justify">A participante recomendou a inclusão de meios que facilitem o acesso à informação procurada, como um link ou botão na página Home, que redirecione para a página onde constam as informações de matrícula, além de uma possível barra de pesquisa.</p>
 
 ### Relato dos resultados
 
 #### Problemas de usabilidade já corrigidos durante os ciclos de avaliação e reprojeto
 
-<p align="justify">Não foram encontrados problemas já corrigidos.</p>
+#### 1: Tamanho das letras no site
+
+-   Local onde ocorreu: Todo site
+-   Fatores de usabilidade prejudicados: Estética e legibilidade
+-   Contexto: O tamanho das fontes do site estão pequenas para alguns usuários
+-   Causa: Tamanho da fonte utilizada
+-   Problema corrigido: Sim
+-   Voltou a ocorrer: Não
 
 #### Problemas de usabilidade ainda não corrigidos
 
@@ -141,20 +139,13 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 -   Prioridade para correção: Média
 -   Sugestões de correção: Incluir botão na página inicial
 
-#### 2: Tamanho das letras no site
-
--   Local onde ocorreu: Todo site
--   Fatores de usabilidade prejudicados: Estética e design
--   Contexto: O tamanho das fontes do site estão pequenas para alguns usuários
--   Causa: Tamanho da fonte utilizada
--   Prioridade para correção: Média
--   Sugestões de correção: Aumentar o tamanho das fontes
-
 #### Conclusão
 
-<p align="justify">Com base na observação e relatos da participante, percebeu-se que o protótipo de baixa-fidelidade possibilita a realização da tarefa. No entanto, a participante acredita que o acesso a informação estava de certa forma "escondido" , tendo um de seus objetivos( o de minimizar a necessidade de um telefonema para obter estas informações), não sendo cumprido, tendo em vista que o acesso à informação não é feito de uma forma simples e direta.</p>
+<p align="justify">Com base na observação e relatos da participante, percebeu-se que o protótipo de alta-fidelidade não possibilita a realização da tarefa, tendo um de seus objetivos minimizar a necessidade de um telefonema para obter estas informações.</p>
 
-<p align="justify"> Ademais, o sistema poderia possuir fontes em maior tamanho , para facilitar a visualização.</p>
+
+
+
 
 ## Tarefa 3: Encontrar notícias sobre o CIL2BSB
 
@@ -162,7 +153,7 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 #### Tarefa
 
-<p align="justify">A tarefa a ser avaliada será a de encontrar notícias sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/">Protótipo de Alta-Fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo/"> no Planejamento da Avaliação do protótipo de Baixa-Fidelidade</a>.
+<p align="justify">A tarefa a ser avaliada será a de encontrar notícias sobre o CIL2BSB utilizando o <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/">Protótipo de Alta-Fidelidade</a>. Os objetivos e metodologias desta avaliação encontram-se no <a href="https://interacao-humano-computador.github.io/2020.2-cil2bsb/Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/"> no Planejamento da Avaliação do protótipo de Alta-Fidelidade</a>.
 </p>
 
 #### Participante
@@ -177,22 +168,22 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
 <p align="justify">O vídeo a seguir registra a interação da usuária com o protótipo de baixa-fidelidade.</p>
 
-<video style="width:100%" controls src="../images/tarefa3.mp4" type="video/mp4">
+<video style="width:100%" controls src="../images/tarefa3-alta.mp4" type="video/mp4">
 </video>
 
 #### Entrevista
 
 Ao final do teste, a usuária respondeu a uma pequena entrevista:
 
-| Pergunta                                                              | Resposta                                                                 |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Em algum momento você sentiu dificuldade na execução da tarefa?       | Não.                                                                     |
-| O que você achou da apresentação visual no protótipo?                 | Poderia melhorar. A paleta de cores está muito monótona.                 |
+| Pergunta                | Resposta                                                                 |
+| ----------------------- | ------------------------------------------------------------------------ |
+| Em algum momento você sentiu dificuldade na execução da tarefa?       | Não.        |
+| O que você achou da apresentação visual no protótipo?                 | Gostei, está bem agradável.    |
 | O que você acha que pode ser feito para melhorar essa funcionalidade? | Uma barra de pesquisas seria útil para filtrar as notícias por conteúdo. |
 
 ### Interpretação e consolidação dos resultados
 
-<p align="justify">A participante conseguiu concluir a tarefa, mas queixou-se de algumas características da estética do protótipo. </p>
+<p align="justify">A participante conseguiu concluir a tarefa sem enfrentar dificuldades. </p>
 
 <p align="justify">A participante também recomendou a inclusão de uma barra de pesquisas para possibilitar a filtragem  de notícias por conteúdos específicos.</p>
 
@@ -209,22 +200,22 @@ Ao final do teste, a usuária respondeu a uma pequena entrevista:
 -   Problema corrigido: Sim
 -   Voltou a ocorrer: Não
 
-#### Problemas de usabilidade ainda não corrigidos
-
-#### 1: Cores pouco atraentes
+#### 2: Cores pouco atraentes
 
 -   Local onde ocorreu: Todo o site
 -   Fatores de usabilidade prejudicados: Estética e design minimalista
--   Contexto: A paleta de cores está muito monótona
+-   Contexto: A paleta de cores estava muito monótona
 -   Causa: Cores pouco atrativas
--   Prioridade para correção: Baixa
--   Sugestões de correção: Aumentar a variedade de cores na paleta
+-   Problema corrigido: Sim
+-   Voltou a ocorrer: Não
 
 #### Conclusão
 
-<p align="justify">Com base na observação e relatos da participante, percebeu-se que o protótipo de baixa-fidelidade possibilita a realização da tarefa. No entanto, a participante acredita que a paleta de cores pode ser melhorada para tornar a experiência de uso mais agradável.</p>
+<p align="justify">Com base na observação e relatos da participante, percebeu-se que o protótipo de alta-fidelidade possibilita a realização da tarefa. Além disso, relatou que a paleta de cores e estética são agradáveis.</p>
 
 <p align="justify"> Ademais, os problemas de sobreposição de informações foram corrigidos e não estão presentes no protótipo de baixa-fidelidade.</p>
+
+<p align="justify">Por fim, foi sugerida a inserção de uma barra de pesquisa.</p>
 
 ### Bibliografia
 
