@@ -7,6 +7,13 @@
 | 05/04/2021 | 0.1    | Criação do documento                          | Eduarda Servidio | Hérya Rodrigues  |
 | 06/04/2021 | 0.2    | Adição das tarefas 2 e 3                      | Hérya Rodrigues  | Eduarda Servidio |
 | 07/04/2021 | 0.3    | Adição da tarefa 1                            | Pedro Haick      | Eduarda Servidio |
+| 07/05/2021 | 0.4    | Correções                                     | Hérya Rodrigues  |                  |
+
+## Introdução
+<p align="justify">O objetivo da Avaliação da Análise de Tarefas é validar os processos e documentos analisados na etapa da Análise de Tarefas,
+verificando se os usuários e suas ações foram identificadas corretamente e se o perfil das personas
+corresponde ao perfil de usuário ideal para a análise do site do CIL2-BSB e suas funcionalidades, por exemplo. </p>
+<p align="justify">Para a Avaliação da Análise de Tarefa foram escolhidos os avaliadores Hérya Rodrigues e Pedro Haick.</p>
 
 ## Tarefa 1: Descobrir mais sobre o CIL2BSB e, eventualmente, efetuar matrícula
 
@@ -122,6 +129,6 @@ O que você acha que pode ser feito para melhorar essa funcionalidade no site?  
 <p align="justify">Ademais, a inexistência de uma barra de busca faz com que seja mais difícil procurar notícias específicas ou filtrá-las por conteúdo.</p>
 
 
-### Bibliografia
+## Bibliografia
 
 <p align="justify">BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010. Cap. 10: Métodos de Avaliação de IHC. </p>
