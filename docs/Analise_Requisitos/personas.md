@@ -9,6 +9,7 @@
 | 15/03/2021 | 0.5    | Adição e detalhamento da persona 3      | Eduarda Servidio                    | Hérya Rodrigues    |
 | 15/03/2021 | 0.6    | Adição e detalhamento da anti-persona 1 | Hérya Rodrigues                     | Eduarda Servidio   |
 | 16/03/2021 | 0.7    | detalhamento da persona 2               | Luis Gustavo                        | Eduarda Servidio   |
+| 06/05/2021 | 0.8    | Correção do documento a partir da verificação feita         |  Eduarda Servidio   | Lus Gustavo |
 
 ## Introdução
 
@@ -20,7 +21,7 @@
 
 |              |                                                                                      |
 | ------------ | ------------------------------------------------------------------------------------ |
-| Foto         | <img alt= "persona-1" src="../Images/persona_1_16.jpeg" width = "300" />             |
+| Foto         | <img alt= "persona-1" src="../Images/persona_1_16.jpeg" width = "300" /> Figura 1: Persona 1: Ana Júlia. Fonte: thispersondoesnotexist.com |
 | Tipo         | Persona primária                                                                     |
 | Nome         | Ana Júlia Silva                                                                      |
 | Idade        | 16 anos                                                                              |
@@ -35,7 +36,7 @@
 
 |              |                                                                                                                                         |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Foto         | <img alt= "persona-2" src="../Images/persona_2_17.jpeg" width = "300" />                                                                |
+| Foto         | <img alt= "persona-2" src="../Images/persona_2_17.jpeg" width = "300" /> Figura 2: Persona 2: Fernanda Siqueira. Fonte: thispersondoesnotexist.com|
 | Tipo         | Persona primária                                                                                                                        |
 | Nome         | Fernanda Siqueira                                                                                                                       |
 | Idade        | 17 anos                                                                                                                                 |
@@ -50,7 +51,7 @@
 
 |             |                                                                                                                                     |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Foto        | <img alt= "persona-3" src="../Images/persona_3.jpg" width = "300" />                                                                |
+| Foto        | <img alt= "persona-3" src="../Images/persona_3.jpg" width = "300" />Figura 3: Persona 3: Milena Barbosa. Fonte: thispersondoesnotexist.com   |
 | Tipo        | Persona secundária                                                                                                                  |
 | Nome        | Milena Barbosa                                                                                                                      |
 | Idade       | 38 anos                                                                                                                             |
