@@ -58,7 +58,7 @@
     ✖ = não está contido.*
 
 ## Conclusão
-<p align="justify"> De acordo com a verificação, o documendo está de acordo com o esperado. </p>
+<p align="justify"> De acordo com a verificação, o documento está de acordo com o esperado. </p>
 
 ## Bibliografia 
 <p align="justify"> <b> Lista de Verificação da Qualidade de Artefatos - Checklist Ágil</b>. Disponível em: <a href = "https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view"> https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view </a>. Acesso em 06 de maio de 2021</p>
