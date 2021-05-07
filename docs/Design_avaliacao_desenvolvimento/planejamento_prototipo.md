@@ -1,10 +1,11 @@
-#Planejamento da Avaliação do Protótipo de Papel
+#Planejamento da Avaliação do Protótipo de Baixa-Fidelidade
 
 ## Histórico de Versões
 
 | Data       | Versão | Descrição                                     | Autores          | Revisor     |
 | ---------- | ------ | --------------------------------------------- | ---------------- | ----------- |
 | 22/04/2021 | 0.1    | Criação do documento e adição dos tópicos     | Eduarda Servidio | Hérya Rodrigues |
+| 06/05/2021 | 0.2    | Correção do documento a partir da verificação     | Eduarda Servidio | Hérya Rodrigues |
 
 ## Objetivo
 <p align="justify">O objetivo da Avaliação do 
