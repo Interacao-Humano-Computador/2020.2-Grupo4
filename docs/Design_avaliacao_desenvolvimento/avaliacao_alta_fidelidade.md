@@ -5,7 +5,7 @@
 | Data       | Versão | Descrição                                              | Autores          | Revisor         |
 | ---------- | ------ | ------------------------------------------------------ | ---------------- | --------------- |
 | 07/05/2021 | 0.1    | Criação do Documento                                   | Gabriela Pivetta | Pedro Haick     |
-| 07/05/20201| 0.2    | Correção de erros de digitação                         | Pedro Haick      | --------------- |
+| 07/05/2021| 0.2    | Correção de erros de digitação                         | Pedro Haick      | --------------- |
 
 ## Introdução
 
