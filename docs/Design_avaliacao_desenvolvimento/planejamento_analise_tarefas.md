@@ -1,10 +1,11 @@
-#Planejamento da Análise de Tarefas
+#Planejamento da Avaliação da Análise de Tarefas
 
 ## Histórico de Versões
 
 | Data       | Versão | Descrição                                     | Autores          | Revisor     |
 | ---------- | ------ | --------------------------------------------- | ---------------- | ----------- |
 | 05/04/2021 | 0.1    | Criação do documento e adição dos tópicos     | Eduarda Servidio | Pedro Haick |
+| 06/05/2021 | 0.2    | Correção no documento a partir da verificação     | Eduarda Servidio | Pedro Haick |
 
 ## Objetivo
 <p align="justify">O objetivo da Avaliação da Análise de Tarefas é validar os processos e documentos analisados na etapa da Análise de Tarefas,
