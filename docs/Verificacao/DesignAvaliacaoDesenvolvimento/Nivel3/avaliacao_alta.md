@@ -6,13 +6,14 @@
 | 04/05/2021 | 0.1    | Criação do documento                          | Giovana Dionisio |                  |
 | 05/05/2021 | 0.2    | Adição do Checklist e das tabelas             | Giovana Dionisio |                  |
 | 06/05/2021 | 0.4    | Adição de bibliografia                        | Giovana Dionisio |                  |
+| 07/05/2021 | 0.5    | Adição da verificação                         | Giovana Dionisio |                  |
 
 ## Contexto 
 <p align="justify"> Este documento trata de uma verificação sobre o artefato <a href = "https://interacao-humano-computador.github.io/2020.2-cil2bsb/">Avaliação do Protótipo de Alta-Fidelidade.</a></p>
 
 ## Metodologia
-<p align="justify"> Técnica utilizada: Leitura Checklist.</a></p>
-<p align="justify"> Autor e Inspetor: Giovana Dionisio.</a></p>
+<p align="justify"> Técnica utilizada: Leitura Checklist.</p>
+<p align="justify"> Autor e Inspetor: Giovana Dionisio.</p>
 
 ## Checklist
 ### Documento
@@ -32,11 +33,11 @@
 ### Documento
 | Perguntas |      |
 | --------- | ---- |
-| 1         |      |
-| 2         |      |
-| 3         |      |
-| 4         |      |
-| 5         |      |
+| 1         |✔     |
+| 2         |✔     |
+| 3         |✔     |
+| 4         |✔     |
+| 5         |✔     |
 
 *Legenda:  
     ✔ = está contido.  
@@ -45,14 +46,17 @@
 ### Técnica
 | Perguntas |      |
 | --------- | ---- |
-| 1         |      |
-| 2         |      |
-| 3         |      |
-| 4         |      |
+| 1         |✔     |
+| 2         |✔     |
+| 3         |✔     |
+| 4         |✔     |
 
 *Legenda:  
     ✔ = está contido.  
     ✖ = não está contido.*
+
+## Conclusão
+<p align="justify"> De acordo com a verificação, o documento está de acordo com o esperado. </p>
 
 ## Bibliografia 
 <p align="justify"> <b> Lista de Verificação da Qualidade de Artefatos - Checklist Ágil</b>. Disponível em: <a href = "https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view"> https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view </a>. Acesso em 06 de maio de 2021</p>
