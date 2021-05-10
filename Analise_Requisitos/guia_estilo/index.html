@@ -1,0 +1,2475 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../../images/logo-cil-2.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.4">
+    
+    
+      
+        <title>Guia de Estilo - Cil2bsb</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.bde7dde4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ef6f36e2.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#guia-de-estilo" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Cil2bsb" class="md-header__button md-logo" aria-label="Cil2bsb" data-md-component="logo">
+      
+  <img src="../../images/logo-cil-2.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Cil2bsb
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Guia de Estilo
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Apresentacao/Apresentacao_1/apresentacao1/" class="md-tabs__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Planejamento/Planejamento/" class="md-tabs__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../tarefas/" class="md-tabs__link md-tabs__link--active">
+        Análise de requisitos
+      </a>
+    </li>
+  
+
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    
+
+  
+  
+  
+    
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Design_avaliacao_desenvolvimento/planejamento_analise_tarefas/" class="md-tabs__link">
+        Design, Avaliação e Desenvolvimento
+      </a>
+    </li>
+  
+
+  
+
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    
+
+  
+  
+  
+    
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Verificacao/AnaliseRequisitos/AnalisePerfil/analise_tarefas/" class="md-tabs__link">
+        Verificação
+      </a>
+    </li>
+  
+
+  
+
+  
+
+      
+    </ul>
+  </div>
+</nav>
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Cil2bsb" class="md-nav__button md-logo" aria-label="Cil2bsb" data-md-component="logo">
+      
+  <img src="../../images/logo-cil-2.png" alt="logo">
+
+    </a>
+    Cil2bsb
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      <label class="md-nav__link" for="__nav_2">
+        Apresentações
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Apresentações" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentações
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacao/Apresentacao_1/apresentacao1/" class="md-nav__link">
+        Apresentação 01
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacao/apresentacao2/" class="md-nav__link">
+        Apresentação 02
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacao/apresentacao3/" class="md-nav__link">
+        Apresentação 03
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacao/apresentacao4/" class="md-nav__link">
+        Apresentação 04
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacao/apresentacao5/" class="md-nav__link">
+        Apresentação 05
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacao/apresentacao6/" class="md-nav__link">
+        Apresentação 06
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacao/apresentacao7/" class="md-nav__link">
+        Apresentação Final
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      <label class="md-nav__link" for="__nav_3">
+        Planejamento
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Planejamento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/processo-de-design/" class="md-nav__link">
+        Processo de Design
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+      
+      <label class="md-nav__link" for="__nav_4">
+        Análise de requisitos
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Análise de requisitos" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_1" type="checkbox" id="__nav_4_1" >
+      
+      <label class="md-nav__link" for="__nav_4_1">
+        Análise do Perfil de Usuário
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Análise do Perfil de Usuário" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_1">
+          <span class="md-nav__icon md-icon"></span>
+          Análise do Perfil de Usuário
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tarefas/" class="md-nav__link">
+        Análise de tarefas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../perfil_usuario/" class="md-nav__link">
+        Perfil do Usuário
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../principios_gerais/" class="md-nav__link">
+        Princípios Gerais de Projeto
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../carac_plataforma/" class="md-nav__link">
+        Características da Plataforma
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../metas_usabilidade/" class="md-nav__link">
+        Metas de Usabilidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Guia de Estilo
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Guia de Estilo
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-objetivo-do-guia-de-estilo" class="md-nav__link">
+    1.1 Objetivo do Guia de Estilo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-organizacao-e-conteudo-do-guia-de-estilo" class="md-nav__link">
+    1.2 Organização e conteúdo do Guia de Estilo
+  </a>
+  
+    <nav class="md-nav" aria-label="1.2 Organização e conteúdo do Guia de Estilo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-introducao_1" class="md-nav__link">
+    1) Introdução:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-resultados-de-analise" class="md-nav__link">
+    2) Resultados de análise
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-elementos-de-interface" class="md-nav__link">
+    3) Elementos de interface
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-elementos-de-interacao" class="md-nav__link">
+    4) Elementos de interação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-elementos-de-acao" class="md-nav__link">
+    5) Elementos de ação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-vocabulario-e-padroes" class="md-nav__link">
+    6) Vocabulário e padrões
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-publico-alvo-do-guia-de-estilos" class="md-nav__link">
+    1.3 Público-alvo do Guia de Estilos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-como-utilizar-o-guia" class="md-nav__link">
+    1.4 Como utilizar o Guia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-como-manter-o-guia" class="md-nav__link">
+    1.5 Como manter o Guia
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-resultados-de-analise_1" class="md-nav__link">
+    2. Resultados de Análise
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Resultados de Análise">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-descricao-do-ambiente-de-trabalho-do-usuario" class="md-nav__link">
+    2.1 Descrição do ambiente de trabalho do usuário
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-elementos-de-interface_1" class="md-nav__link">
+    3. Elementos de interface
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Elementos de interface">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-disposicao-espacial-e-grid" class="md-nav__link">
+    3.1 Disposição espacial e grid
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-janelas" class="md-nav__link">
+    3.2 Janelas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-tipografia" class="md-nav__link">
+    3.3 Tipografia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-simbolos-nao-tipograficos" class="md-nav__link">
+    3.4 Símbolos não tipográficos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-cores" class="md-nav__link">
+    3.5 Cores
+  </a>
+  
+    <nav class="md-nav" aria-label="3.5 Cores">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#351-cores-do-logo" class="md-nav__link">
+    3.5.1 Cores do logo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#352-cores-principais" class="md-nav__link">
+    3.5.2 Cores principais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#351-cores-secundarias" class="md-nav__link">
+    3.5.1 Cores secundárias
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#36-animacoes" class="md-nav__link">
+    3.6 Animações
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4elementos-de-interacao" class="md-nav__link">
+    4.Elementos de interação
+  </a>
+  
+    <nav class="md-nav" aria-label="4.Elementos de interação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-estilos-de-interacao" class="md-nav__link">
+    4.1 Estilos de interação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-selecao-de-um-estilo" class="md-nav__link">
+    4.2 Seleção de um Estilo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#43-aceleradores-teclas-de-atalho" class="md-nav__link">
+    4.3 Aceleradores (teclas de atalho)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-elementos-de-acao_1" class="md-nav__link">
+    5. Elementos de ação
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Elementos de ação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-preenchimento-de-campos" class="md-nav__link">
+    5.1 Preenchimento de campos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-selecao" class="md-nav__link">
+    5.2 Seleção
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-ativacao" class="md-nav__link">
+    5.3 Ativação
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-vocabulario-e-padroes_1" class="md-nav__link">
+    6. Vocabulário e padrões
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Vocabulário e padrões">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#61-terminologia" class="md-nav__link">
+    6.1 Terminologia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#62-tipos-de-tela" class="md-nav__link">
+    6.2 Tipos de tela
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#63-sequencias-de-dialogos" class="md-nav__link">
+    6.3 Sequências de diálogos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      <label class="md-nav__link" for="__nav_5">
+        Design, Avaliação e Desenvolvimento
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Design, Avaliação e Desenvolvimento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Design, Avaliação e Desenvolvimento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_1" type="checkbox" id="__nav_5_1" >
+      
+      <label class="md-nav__link" for="__nav_5_1">
+        Nível 1
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Nível 1" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_1">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_1_1" type="checkbox" id="__nav_5_1_1" >
+      
+      <label class="md-nav__link" for="__nav_5_1_1">
+        Análise de tarefas
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Análise de tarefas" data-md-level="3">
+        <label class="md-nav__title" for="__nav_5_1_1">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de tarefas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/planejamento_analise_tarefas/" class="md-nav__link">
+        Planejamento da Avaliação da Análise de Tarefas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/teste_piloto_tarefa/" class="md-nav__link">
+        Teste Piloto da Avaliação da Análise de Tarefas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/avaliacao_analise_tarefas/" class="md-nav__link">
+        Avaliação da Análise de Tarefas
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_1_2" type="checkbox" id="__nav_5_1_2" >
+      
+      <label class="md-nav__link" for="__nav_5_1_2">
+        Storyboard
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Storyboard" data-md-level="3">
+        <label class="md-nav__title" for="__nav_5_1_2">
+          <span class="md-nav__icon md-icon"></span>
+          Storyboard
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/storyboard/" class="md-nav__link">
+        Storyboard
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/planejamento_storyboard/" class="md-nav__link">
+        Planejamento da Avaliação do Storyboard
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/teste_piloto_storyboard/" class="md-nav__link">
+        Teste Piloto da Avaliação do Storyboard
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/avaliacao_storyboard/" class="md-nav__link">
+        Avaliação do Storyboard
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_2" type="checkbox" id="__nav_5_2" >
+      
+      <label class="md-nav__link" for="__nav_5_2">
+        Nível 2
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Nível 2" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_2">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/prototipo_baixa_fidelidade/" class="md-nav__link">
+        Protótipo de Baixa-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/planejamento_prototipo/" class="md-nav__link">
+        Planejamento da Avaliação do Protótipo de Baixa-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/teste_piloto_prototipo/" class="md-nav__link">
+        Teste Piloto do Protótipo de Baixa-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/avaliacao_baixa_fidelidade/" class="md-nav__link">
+        Avaliação do Protótipo de Baixa-Fidelidade
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_3" type="checkbox" id="__nav_5_3" >
+      
+      <label class="md-nav__link" for="__nav_5_3">
+        Nível 3
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Nível 3" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_3">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/prototipo_alta_fidelidade/" class="md-nav__link">
+        Protótipo de Alta-Fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/planejamento_prototipo_altafidelidade/" class="md-nav__link">
+        Planejamento da Avaliação do Protótipo de Alta-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/teste_piloto_prototipo_alta_fidelidade/" class="md-nav__link">
+        Teste Piloto do Protótipo de Alta-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Design_avaliacao_desenvolvimento/avaliacao_alta_fidelidade/" class="md-nav__link">
+        Avaliação do Protótipo de Alta-Fidelidade
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      <label class="md-nav__link" for="__nav_6">
+        Verificação
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Verificação" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1" type="checkbox" id="__nav_6_1" >
+      
+      <label class="md-nav__link" for="__nav_6_1">
+        Análise de requisitos
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Análise de requisitos" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_1">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1_1" type="checkbox" id="__nav_6_1_1" >
+      
+      <label class="md-nav__link" for="__nav_6_1_1">
+        Análise do Perfil de Usuário
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Análise do Perfil de Usuário" data-md-level="3">
+        <label class="md-nav__title" for="__nav_6_1_1">
+          <span class="md-nav__icon md-icon"></span>
+          Análise do Perfil de Usuário
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/AnaliseRequisitos/AnalisePerfil/analise_tarefas/" class="md-nav__link">
+        Análise de tarefas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/AnaliseRequisitos/AnalisePerfil/perfil_usuario/" class="md-nav__link">
+        Perfil do Usuário
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/AnaliseRequisitos/AnalisePerfil/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/AnaliseRequisitos/principios_gerais/" class="md-nav__link">
+        Princípios Gerais de Projeto
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/AnaliseRequisitos/caracteristicas/" class="md-nav__link">
+        Características da Plataforma
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/AnaliseRequisitos/metas_usabilidade/" class="md-nav__link">
+        Metas de Usabilidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/AnaliseRequisitos/guia_estilo/" class="md-nav__link">
+        Guia de Estilo
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2" type="checkbox" id="__nav_6_2" >
+      
+      <label class="md-nav__link" for="__nav_6_2">
+        Design, Avaliação e Desenvolvimento
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Design, Avaliação e Desenvolvimento" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Design, Avaliação e Desenvolvimento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2_1" type="checkbox" id="__nav_6_2_1" >
+      
+      <label class="md-nav__link" for="__nav_6_2_1">
+        Nível 1
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Nível 1" data-md-level="3">
+        <label class="md-nav__title" for="__nav_6_2_1">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2_1_1" type="checkbox" id="__nav_6_2_1_1" >
+      
+      <label class="md-nav__link" for="__nav_6_2_1_1">
+        Análise de tarefas
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Análise de tarefas" data-md-level="4">
+        <label class="md-nav__title" for="__nav_6_2_1_1">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de tarefas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/planejamento_analise/" class="md-nav__link">
+        Planejamento da Avaliação da Análise de Tarefas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/teste_analise/" class="md-nav__link">
+        Teste Piloto da Avaliação da Análise de Tarefas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/avaliacao_tarefas/" class="md-nav__link">
+        Avaliação da Análise de Tarefas
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2_1_2" type="checkbox" id="__nav_6_2_1_2" >
+      
+      <label class="md-nav__link" for="__nav_6_2_1_2">
+        Storyboard
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Storyboard" data-md-level="4">
+        <label class="md-nav__title" for="__nav_6_2_1_2">
+          <span class="md-nav__icon md-icon"></span>
+          Storyboard
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard/storyboard/" class="md-nav__link">
+        Storyboard
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard/planejamento_storyboard/" class="md-nav__link">
+        Planejamento da Avaliação do Storyboard
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard/teste_storyboard/" class="md-nav__link">
+        Teste Piloto da Avaliação do Storyboard
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard/avaliacao_storyboard/" class="md-nav__link">
+        Avaliação do Storyboard
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2_2" type="checkbox" id="__nav_6_2_2" >
+      
+      <label class="md-nav__link" for="__nav_6_2_2">
+        Nível 2
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Nível 2" data-md-level="3">
+        <label class="md-nav__title" for="__nav_6_2_2">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel2/prototipo_baixa/" class="md-nav__link">
+        Protótipo de Baixa-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel2/planejamento_baixa/" class="md-nav__link">
+        Planejamento da Avaliação do Protótipo de Baixa-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel2/teste_baixa/" class="md-nav__link">
+        Teste Piloto da Avaliação do Protótipo de Baixa-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel2/avaliacao_baixa/" class="md-nav__link">
+        Avaliação do Protótipo de Baixa-fidelidade
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2_3" type="checkbox" id="__nav_6_2_3" >
+      
+      <label class="md-nav__link" for="__nav_6_2_3">
+        Nível 3
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Nível 3" data-md-level="3">
+        <label class="md-nav__title" for="__nav_6_2_3">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel3/prototipo_alta/" class="md-nav__link">
+        Protótipo de Alta-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel3/planejamento_alta/" class="md-nav__link">
+        Planejamento da Avaliação do Protótipo de Alta-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel3/teste_alta/" class="md-nav__link">
+        Teste Piloto da Avaliação do Protótipo de Alta-fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/DesignAvaliacaoDesenvolvimento/Nivel3/avaliacao_alta/" class="md-nav__link">
+        Avaliação do Protótipo de Alta-Fidelidade
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-objetivo-do-guia-de-estilo" class="md-nav__link">
+    1.1 Objetivo do Guia de Estilo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-organizacao-e-conteudo-do-guia-de-estilo" class="md-nav__link">
+    1.2 Organização e conteúdo do Guia de Estilo
+  </a>
+  
+    <nav class="md-nav" aria-label="1.2 Organização e conteúdo do Guia de Estilo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-introducao_1" class="md-nav__link">
+    1) Introdução:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-resultados-de-analise" class="md-nav__link">
+    2) Resultados de análise
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-elementos-de-interface" class="md-nav__link">
+    3) Elementos de interface
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-elementos-de-interacao" class="md-nav__link">
+    4) Elementos de interação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-elementos-de-acao" class="md-nav__link">
+    5) Elementos de ação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-vocabulario-e-padroes" class="md-nav__link">
+    6) Vocabulário e padrões
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-publico-alvo-do-guia-de-estilos" class="md-nav__link">
+    1.3 Público-alvo do Guia de Estilos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-como-utilizar-o-guia" class="md-nav__link">
+    1.4 Como utilizar o Guia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-como-manter-o-guia" class="md-nav__link">
+    1.5 Como manter o Guia
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-resultados-de-analise_1" class="md-nav__link">
+    2. Resultados de Análise
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Resultados de Análise">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-descricao-do-ambiente-de-trabalho-do-usuario" class="md-nav__link">
+    2.1 Descrição do ambiente de trabalho do usuário
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-elementos-de-interface_1" class="md-nav__link">
+    3. Elementos de interface
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Elementos de interface">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-disposicao-espacial-e-grid" class="md-nav__link">
+    3.1 Disposição espacial e grid
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-janelas" class="md-nav__link">
+    3.2 Janelas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-tipografia" class="md-nav__link">
+    3.3 Tipografia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-simbolos-nao-tipograficos" class="md-nav__link">
+    3.4 Símbolos não tipográficos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-cores" class="md-nav__link">
+    3.5 Cores
+  </a>
+  
+    <nav class="md-nav" aria-label="3.5 Cores">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#351-cores-do-logo" class="md-nav__link">
+    3.5.1 Cores do logo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#352-cores-principais" class="md-nav__link">
+    3.5.2 Cores principais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#351-cores-secundarias" class="md-nav__link">
+    3.5.1 Cores secundárias
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#36-animacoes" class="md-nav__link">
+    3.6 Animações
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4elementos-de-interacao" class="md-nav__link">
+    4.Elementos de interação
+  </a>
+  
+    <nav class="md-nav" aria-label="4.Elementos de interação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#41-estilos-de-interacao" class="md-nav__link">
+    4.1 Estilos de interação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#42-selecao-de-um-estilo" class="md-nav__link">
+    4.2 Seleção de um Estilo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#43-aceleradores-teclas-de-atalho" class="md-nav__link">
+    4.3 Aceleradores (teclas de atalho)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-elementos-de-acao_1" class="md-nav__link">
+    5. Elementos de ação
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Elementos de ação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-preenchimento-de-campos" class="md-nav__link">
+    5.1 Preenchimento de campos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-selecao" class="md-nav__link">
+    5.2 Seleção
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-ativacao" class="md-nav__link">
+    5.3 Ativação
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-vocabulario-e-padroes_1" class="md-nav__link">
+    6. Vocabulário e padrões
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Vocabulário e padrões">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#61-terminologia" class="md-nav__link">
+    6.1 Terminologia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#62-tipos-de-tela" class="md-nav__link">
+    6.2 Tipos de tela
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#63-sequencias-de-dialogos" class="md-nav__link">
+    6.3 Sequências de diálogos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="guia-de-estilo">Guia de Estilo</h1>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Versão</th>
+<th>Descrição</th>
+<th>Autores</th>
+<th>Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>23/03/2021</td>
+<td>0.1</td>
+<td>Criação do Documento</td>
+<td>Eduarda Servidio</td>
+<td>Pedro Haick</td>
+</tr>
+<tr>
+<td>23/03/2021</td>
+<td>0.2</td>
+<td>Adição do tópico e subtópicos referentes a Introdução</td>
+<td>Eduarda Servidio</td>
+<td>Giovana Dionisio</td>
+</tr>
+<tr>
+<td>23/03/2021</td>
+<td>0.3</td>
+<td>Adição do tópico e subtópico referentes a Resultados de Análise</td>
+<td>Eduarda Servidio</td>
+<td>Giovana Dionisio</td>
+</tr>
+<tr>
+<td>24/03/2021</td>
+<td>0.4</td>
+<td>Adição dos tópicos e subtópicos referentes a Elementos de Interface e Estilos de Interação</td>
+<td>Hérya Rodrigues</td>
+<td>Eduarda Servidio</td>
+</tr>
+<tr>
+<td>24/03/2021</td>
+<td>0.5</td>
+<td>Adição dos tópicos 5 e 6</td>
+<td>Luis Marques</td>
+<td>Eduarda Servidio</td>
+</tr>
+</tbody>
+</table>
+<h2 id="1-introducao">1. Introdução</h2>
+<p align="justify">Guia de Estilo trata-se de um registro das principais decisões de design tomadas,
+de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto
+final.</p>
+<p>A imagem abaixo mostra a fase do Ciclo de Mayhew que estamos desenvolvendo:
+<img alt= "Ciclo de Mayhew com ênfase em Guia de Estilo" src="../Images_Guia_Estilo/Esquema_Mayhew_1.jpg" width = "600"/></p>
+<p><em>Figura1: Análise de Requisitos do Ciclo de Mayhew. Modificado por: Eduarda Servidio. Fonte: BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 6, p 88.</em></p>
+<h3 id="11-objetivo-do-guia-de-estilo">1.1 Objetivo do Guia de Estilo</h3>
+<p align="justify">Guias de Estilo servem de ferramenta de comunicação entre os membros da equipe
+de design e também com a equipe de desenvolvimento. É importante que as decisões de
+design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões
+ou versões futuras do produto.</p>
+<p align="justify"> A partir disso, criaremos um Guia de Estilo com a função de registrar as
+decisões de design relacionadas a implementação do site CIL2-BSB.</p>
+
+<h3 id="12-organizacao-e-conteudo-do-guia-de-estilo">1.2 Organização e conteúdo do Guia de Estilo</h3>
+<p align="justify">O Guia de Estilo será baseado na estrutura proposta por Marcus (1991) e Mayhew (1999).</p>
+<p>Segue a estrutura detalhada:</p>
+<h4 id="1-introducao_1">1) Introdução:</h4>
+<pre><code>* Objetivo do guia de estilo;
+* Organização e conteúdo do guia de estilo;
+* Público-alvo do guia de estilos
+* Como utilizar o guia
+* Como manter o guia
+</code></pre>
+<h4 id="2-resultados-de-analise">2) Resultados de análise</h4>
+<pre><code>* Descrição do ambiente de trabalho do usuário
+</code></pre>
+<h4 id="3-elementos-de-interface">3) Elementos de interface</h4>
+<pre><code>* Disposição espacial e grid
+* Janelas
+* Tipografia
+* Símbolos não tipográficos
+* Cores
+* Animações
+</code></pre>
+<h4 id="4-elementos-de-interacao">4) Elementos de interação</h4>
+<pre><code>* Estilos de interação
+* Seleção de um estilo
+* Aceleradores
+</code></pre>
+<h4 id="5-elementos-de-acao">5) Elementos de ação</h4>
+<pre><code>* Preenchimento de campos
+* Seleção
+* Ativação
+</code></pre>
+<h4 id="6-vocabulario-e-padroes">6) Vocabulário e padrões</h4>
+<pre><code>* Terminologia
+* Tipos de tela
+* Sequências de diálogos
+</code></pre>
+<h3 id="13-publico-alvo-do-guia-de-estilos">1.3 Público-alvo do Guia de Estilos</h3>
+<p align="justify">O público-alvo são os desenvolvedores e programadores do site,
+assim como, a equipe que irá lidar com o design do site CIL2-BSB.</p>
+
+<h3 id="14-como-utilizar-o-guia">1.4 Como utilizar o Guia</h3>
+<p align="justify">O Guia de Estilo deve ser utilizado como parte de um processo
+reflexivo de design, e não como um conjunto de soluções prontas ou fórmulas geradoras
+de soluções. O Guia deve auxiliar nas correções e melhorias do design do site do CIL2-BSB.</p>
+
+<h3 id="15-como-manter-o-guia">1.5 Como manter o Guia</h3>
+<p align="justify">O Guia de Estilo deve ser feito na fase de "Análise de Requisitos" e
+verificado a cada nível na fase de "Design, Avaliação, Desenvolvimento" como
+indicado na imagem abaixo do Ciclo de Mayhew. O Guia deve ser mantido sempre atualizado
+após cada alteração no desenvolvimento do projeto.</p>
+
+<p><img alt = "Ciclo de Mayhew com ênfase em Guia de Estilo" src="../Images_Guia_Estilo/Esquema_Mayhew.jpg" width = "600"/></p>
+<p><em>Figura2: Ciclo de Mayhew. Modificado por: Eduarda Servidio. Fonte: BARBOSA, Simone et al. "Interação Humano-Computador". Capítulo 6, p 88.</em></p>
+<h2 id="2-resultados-de-analise_1">2. Resultados de Análise</h2>
+<h3 id="21-descricao-do-ambiente-de-trabalho-do-usuario">2.1 Descrição do ambiente de trabalho do usuário</h3>
+<p align="justify">O site do CIL2-BSB é um ambiente na web voltado a apresentar notícias
+e orientar as pessoas, interessadas em aprender uma nova língua em Brasília, no seu
+processo de matrícula.
+Na tela Home do site o usuário encontra 6 Abas superiores com informações diversas sobre
+tudo que diz respeito ao CIL2-BSB e seus alunos, bem como um link que redireciona ao
+Facebook do Centro Interescolar. Ao longo da página Home, há uma seção de Notícias,
+uma de Fotos e uma de Destaque, bem como um pequeno atalho das principais funções do site no canto
+inferior direito da tela, seção Mais.</p>
+
+<p>Segue imagem do site do CIL2-BSB, bem como detalhamento da Aba Superior da página Home:</p>
+<p><img alt = "Site CIL2BSB" src="../Images_Guia_Estilo/Site_CIL2.jpg" width = "600"/></p>
+<p><em>Figura3: Site do Cil2-BSB. Disponível em: http://www.cil2bsb.com.br/</em></p>
+<p><img alt = "Aba Superior do Site CIL2BSB" src="../Images_Guia_Estilo/Aba_Superior.jpg" width = "600"/></p>
+<p><em>Figura4: Aba Superior do site do Cil2-BSB. Disponível em: http://www.cil2bsb.com.br/</em></p>
+<h2 id="3-elementos-de-interface_1">3. Elementos de interface</h2>
+<h3 id="31-disposicao-espacial-e-grid">3.1 Disposição espacial e grid</h3>
+<p align="justify"> A disposição espacial atual do site é simples, mas a forma como o grid está disposto faz com que alguns elementos se confundam ou se sobreponham.
+Na figura 3 do subtópico acima  - "Descrição do ambiente de trabalho do usuário" -  pode-se observar que títulos de diferentes notícias estão sobrepostos e que algumas notícias chegam a se repetir até três vezes na página inicial, mas em diferentes partes do grid.</p>
+
+<p>Segue abaixo o grid atual para a página inicial e diferentes janelas:</p>
+<p><img alt = "Grid página inicial" src="../Images_Guia_Estilo/grid-homepage.jpg" width = "600"/></p>
+<p><em>Figura 5: Grid da página inicial</em></p>
+<p><img alt = "Grid Notícias" src="../Images_Guia_Estilo/grid-noticias.png" width = "600"/></p>
+<p><em>Figura 6: Grid da janela de notícias</em></p>
+<p><img alt = "Grid das demais janelas" src="../Images_Guia_Estilo/grid-janelas.png" width = "600"/></p>
+<p><em>Figura 7: Grid das demais janelas</em></p>
+<h3 id="32-janelas">3.2 Janelas</h3>
+<p align="justify">Além da página inicial, há 16 janelas funcionais: CIL2, Equipe Gestora, Conselho Escolar, Secretaria do CIL 02 de Brasília, APAAM, Avaliação, Regimento Interno – CIL 2, Deveres do Aluno, Matrículas Novas, Renovação de Matrícula, Trancamento de Matrícula, Notícias, Banco do Livro, Cine Cil, Monitoria e Reforço Escolar e Fale Conosco. A funcionalidade comum a todas é a visualização de informações e notícias.</p>
+<p align="justify">No entanto, o menu principal - localizado na parte superior do site - redireciona o usuário a algumas janelas vazias, como a janela de Professores (Figura 8) e a do DELE (Figura 9).</p>
+
+<p><img alt = "Janela Professores" src="../Images_Guia_Estilo/professores.png" width = "600"/></p>
+<p><em>Figura 8: Janela "Professores" sem informações. Disponível em: http://www.cil2bsb.com.br/quem-somos/professores/</em></p>
+<p><img alt = "Janela DELE" src="../Images_Guia_Estilo/DELE.png" width = "600"/></p>
+<p><em>Figura 9: Janela "DELE" sem informações. Disponível em: http://www.cil2bsb.com.br/dele/</em></p>
+<h3 id="33-tipografia">3.3 Tipografia</h3>
+<p>As principais fontes utilizadas são Arial, Helvetica e Tahoma.
+<img alt = "Fonte Arial" src="../Images_Guia_Estilo/fonteArial.png" width = "600"/></p>
+<p><em>Figura 10: Exemplos de utilização da fonte Arial</em></p>
+<p><img alt = "Fonte Helvetica" src="../Images_Guia_Estilo/fonteHelvetica.png" width = "600"/></p>
+<p><em>Figura 11: Exemplos de utilização da fonte Helvetica</em></p>
+<p><img alt = "Fonte Tahoma" src="../Images_Guia_Estilo/fonteTahoma.png" width = "600"/></p>
+<p><em>Figura 12: Exemplos de utilização da fonte Tahoma</em></p>
+<h3 id="34-simbolos-nao-tipograficos">3.4 Símbolos não tipográficos</h3>
+<p align="justify">O site apresenta os seguintes símbolos não tipográficos:</p>
+
+<p><img alt = "Símbolos não tipográficos" src="../Images_Guia_Estilo/nao-tipograficos.png" /></p>
+<p><em>Figura 13: Símbolos não tipográficos encontrados no site do CIL2BSB</em></p>
+<h3 id="35-cores">3.5 Cores</h3>
+<h4 id="351-cores-do-logo">3.5.1 Cores do logo</h4>
+<p><img alt = "Cores do logo" src="../Images_Guia_Estilo/cores-logo.jpeg" /></p>
+<p><em>Figura 14: Cores do logo do CIL2BSB</em></p>
+<h4 id="352-cores-principais">3.5.2 Cores principais</h4>
+<p><img alt = "Cores principais" src="../Images_Guia_Estilo/cores-principais.jpeg" /></p>
+<p><em>Figura 15: Principais cores encontradas no site do CIL2BSB</em></p>
+<h4 id="351-cores-secundarias">3.5.1 Cores secundárias</h4>
+<p><img alt = "Cores secundárias" src="../Images_Guia_Estilo/cores-secundarias.jpeg" /></p>
+<p><em>Figura 16: Cores secundárias encontradas no site do CIL2BSB</em></p>
+<h3 id="36-animacoes">3.6 Animações</h3>
+<p align="justify">O site do CIL2BSB apresenta uma animação, na Página Home na seção das Notícias, das principais e atuais notícias presentes no site.</p>
+
+<h2 id="4elementos-de-interacao">4.Elementos de interação</h2>
+<h3 id="41-estilos-de-interacao">4.1 Estilos de interação</h3>
+<p align="justify">No site do CIL2BSB é encontrado o WIMP(Windows, Icons, Menus, and Pointers), que consiste na utilização de janelas, ícones, menus e ações com o mouse. Dentre estes, o menu é o mais utilizado, de forma a possibilitar a navegação do usuário.</p>
+
+<h3 id="42-selecao-de-um-estilo">4.2 Seleção de um Estilo</h3>
+<p align="justify">O estilo predominante no site é o de menus. Diante disso, o usuário procura o que deseja no menu e tenta realizar a funcionalidade.</p>
+
+<h3 id="43-aceleradores-teclas-de-atalho">4.3 Aceleradores (teclas de atalho)</h3>
+<p>Durante a utilização do site, não foram encontrados aceleradores de nenhum tipo.</p>
+<h2 id="5-elementos-de-acao_1">5. Elementos de ação</h2>
+<h3 id="51-preenchimento-de-campos">5.1 Preenchimento de campos</h3>
+<p aling="justify">O sistema não possui campos a serem preenchidos.</p>
+
+<h3 id="52-selecao">5.2 Seleção</h3>
+<p aling="justify">O usuário pode selecionar qualquer texto ou elemento no site.</p>
+
+<h3 id="53-ativacao">5.3 Ativação</h3>
+<p aling="justify">O sistema não possui ações que necessitem de ativação por parte do usuário.</p>
+
+<h2 id="6-vocabulario-e-padroes_1">6. Vocabulário e padrões</h2>
+<h3 id="61-terminologia">6.1 Terminologia</h3>
+<p aling="justify">O site não usa terminologias específicas.</p>
+
+<h3 id="62-tipos-de-tela">6.2 Tipos de tela</h3>
+<p aling="justify">O site em todas as telas fazem uso de uma barra superior (top bar) e uma barra inferior (footer).</p>
+
+<p><img alt = "Cores secundárias" src="../Images_Guia_Estilo/cil2_head.png" width = "600"/></p>
+<p><em>Figura 17: top bar site do CIL2BSB. Disponível em: http://www.cil2bsb.com.br</em></p>
+<p><img alt = "Cores secundárias" src="../Images_Guia_Estilo/cil2_rod.png" width = "600"/></p>
+<p><em>Figura 18: footer site do CIL2BSB. Disponível em: http://www.cil2bsb.com.br</em></p>
+<h3 id="63-sequencias-de-dialogos">6.3 Sequências de diálogos</h3>
+<p aling="justify">O site não usa sequências de diálogos, sendo as informações transmitidas sempre unilateralmente(do site para o usuário).</p>
+
+<h2 id="bibliografia">Bibliografia</h2>
+<p align="justify">Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+Interação Humano-Computador e Experiência do usuário. Autopublicação.
+</p>
+<p>Os diagramas do tópicos Elementos de Interface e Estilos de Interação são de elaboração própria e foram criadas utilizando <a href="https://app.diagrams.net/" target="_top">draw.io</a> e <a href="https://color.adobe.com/" target="_top">Adobe Color</a>.</p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        <a href="../metas_usabilidade/" class="md-footer__link md-footer__link--prev" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              Metas de Usabilidade
+            </div>
+          </div>
+        </a>
+      
+      
+        <a href="../../Design_avaliacao_desenvolvimento/planejamento_analise_tarefas/" class="md-footer__link md-footer__link--next" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              Planejamento da Avaliação da Análise de Tarefas
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["header.autohide", "navigation.tabs"], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../assets/javascripts/workers/search.4fa0e4ee.min.js", "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.1d3bfcf1.min.js"></script>
+      
+    
+  </body>
+</html>
